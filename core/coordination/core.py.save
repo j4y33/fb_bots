@@ -1,0 +1,188 @@
+import threading
+import time
+
+from actions.cookies import Cookies
+from actions.random_range import RR
+from core.coordination.model import ActionModel
+from core.features.login import Login
+
+
+class Bot(RR, Cookies):
+    def __init__(self, driver=None, bot=None, sql=None):
+        super().__init__()
+        self.__driver = driver
+        self.__bot = bot
+        self.__sql = sql
+        self.lock = threading.Lock()
+        self.screen = None
+        self.__status = False
+        self.__module = "Bot"
+        self.__current_action = None
+        self.__append_next = None
+
+    def run(self, bot, driver, sql, login_status):
+        self.__driver = driver
+        self.__bot = bot
+        self.__sql = sql
+        if not login_status:
+            login = Login()
+            with self.lock:
+                self.__current_action = 'login'
+            login.action(driver, self.__bot)
+            self.__sql.add_action(self.__bot[0], 'login', 'login', True)
+            self.save_cookies(self.__driver, self.__bot[0], self.__sql)
+        while True:
+            time.sleep(15)
+            print(self.__driver.execute_script("return navigator.platform"))
+        # Check if profile filled
+#        profile_actions = ActionModel.get_actions('profile')
+#        profile_actions_db = self.__sql.get_profile_actions(self.__bot[0])
+#        completed_actions = []
+#        for act_db in profile_actions_db:
+#            completed_actions.append(act_db[3])
+#        for act in profile_actions:
+#            if act not in completed_actions:
+#                with self.lock:
+#                    self.__current_action = act
+#                p = profile_actions[act](self.__driver, self.__bot, self.__sql)
+#                p.action()
+#                self.__sql.add_action(self.__bot[0], 'profile', act, True)
+#                break
+        with self.lock:
+            self.__current_action = None
+        self.__sql.update_bot_last_used_date(bot[0])
+        while True:
+            self.save_cookies(self.__driver, self.__bot[0], self.__sql)
+            if self.__sql.check_bot_used_time(bot[0], self.used_range) is not None:
+                break
+            else:
+                if self.__append_next is not None:
+                    with self.lock:
+                        self.__current_action = self.__append_next
+                        self.__append_next = ActionModel.search_action(self.__append_next)
+                    start = self.__append_next[1](self.__driver, self.__bot, self.__sql)
+                    start.action()
+                    self.__sql.add_action(self.__bot[0], self.__append_next[0], self.__append_next[2], True)
+                    self.__append_next = None
+                    continue
+                actions = self.__sql.get_actions(bot[0], self.mean_range)
+                if actions is None:
+                    main_act = ActionModel.get_random_action('main')
+                    with self.lock:
+                        self.__current_action = main_act[0]
+                    start = main_act[1](self.__driver, self.__bot, self.__sql)
+                    start.action()
+                    self.__sql.add_action(self.__bot[0], 'main', main_act[0], True)
+                else:
+                    total_main, total_base, total_low = ([] for i in range(3))
+                    for action in actions:
+                        if action[2] == 'main':
+                            total_main.append('main')
+                        elif action[2] == 'base':
+                            total_base.append('base')
+                        elif action[2] == 'low':
+                            total_low.append('low')
+                    if not total_main:
+                        main_act = ActionModel.get_random_action('main')
+                        with self.lock:
+                            self.__current_action = main_act[0]
+                        start = main_act[1](self.__driver, self.__bot, self.__sql)
+                        start.action()
+                        self.__sql.add_action(self.__bot[0], 'main', main_act[0], True)
+                        continue
+                    if not total_base:
+                        base_act = ActionModel.get_random_action('base')
+                        with self.lock:
+                            self.__current_action = base_act[0]
+                        start = base_act[1](self.__driver, self.__bot, self.__sql)
+                        start.action()
+                        self.__sql.add_action(self.__bot[0], 'base', base_act[0], True)
+                        continue
+                    if not total_low:
+                        low_act = ActionModel.get_random_action('low')
+                        with self.lock:
+                            self.__current_action = low_act[0]
+                        start = low_act[1](self.__driver, self.__bot, self.__sql)
+                        start.action()
+                        self.__sql.add_action(self.__bot[0], 'low', low_act[0], True)
+                        continue
+                    if len(total_main) > len(total_base) + self.mean_range:
+                        base_act = ActionModel.get_random_action('base')
+                        with self.lock:
+                            self.__current_action = base_act[0]
+                        start = base_act[1](self.__driver, self.__bot, self.__sql)
+                        start.action()
+                        self.__sql.add_action(self.__bot[0], 'base', base_act[0], True)
+                    else:
+                        main_act = ActionModel.get_random_action('main')
+                        with self.lock:
+                            self.__current_action = main_act[0]
+                        start = main_act[1](self.__driver, self.__bot, self.__sql)
+                        start.action()
+                        self.__sql.add_action(self.__bot[0], 'main', main_act[0], True)
+        self.__sql.update_bot_last_used_date(bot[0])
+
+    @property
+    def get_current_action(self):
+        with self.lock:
+            return self.__current_action
+
+    @property
+    def get_bot_info(self):
+        with self.lock:
+            return self.__bot
+
+    @property
+    def get_main_actions(self):
+        with self.lock:
+            return ActionModel.get_actions('main')
+
+    @property
+    def get_base_actions(self):
+        with self.lock:
+            return ActionModel.get_actions('base')
+
+    @property
+    def get_low_actions(self):
+        with self.lock:
+            return ActionModel.get_actions('low')
+
+    @property
+    def get_profile_actions(self):
+        with self.lock:
+            return ActionModel.get_actions('profile')
+
+    @property
+    def get_screen(self):
+        with self.lock:
+            return self.__driver.get_screenshot_as_png()
+
+    # SQL
+    @property
+    def get_friends(self):
+        with self.lock:
+            return self.__sql.get_friends(self.__bot[0])
+
+    @property
+    def get_groups(self):
+        with self.lock:
+            return self.__sql.get_groups(self.__bot[0])
+
+    @property
+    def get_follow(self):
+        with self.lock:
+            return self.__sql.get_follow(self.__bot[0])
+
+    @property
+    def last_actions(self):
+        with self.lock:
+            return self.__sql.last_actions(self.__bot[0])
+
+    @property
+    def last_errors(self):
+        with self.lock:
+            return self.__sql.last_errors(self.__bot[0])
+
+    def append_action(self, action):
+        with self.lock:
+            self.__append_next = action

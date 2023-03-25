@@ -1,0 +1,1534 @@
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-11-04 08:26:45,615
+BotRun: Start bot: 79777839058 2020-11-04 08:26:45,636
+BotRun: connect to VPN failed: 79777839058 2020-11-04 08:27:00,662
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-02 19:13:54,036
+BotRun: Start bot: 79777839058 2020-12-02 19:13:54,051
+BotRun: connect to VPN failed: 79777839058 2020-12-02 19:14:09,081
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-02 19:43:08,798
+BotRun: Start bot: 79777839058 2020-12-02 19:43:08,802
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-02 19:43:39,310
+BotRun: Start bot: 79777839058 2020-12-02 19:43:39,316
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-02 19:50:12,197
+BotRun: Start bot: 79777839058 2020-12-02 19:50:12,205
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-03 09:58:36,926
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-03 10:07:26,653
+BotRun: start bot failed, SQL error: could not connect to server: Connection timed out
+	Is the server running on host "172.31.47.27" and accepting
+	TCP/IP connections on port 5432?
+ 2020-12-03 10:09:37,717
+BotRun: get bot from Database failed: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 - Not Found</title>
+ </head>
+ <body>
+  <h1>404 - Not Found</h1>
+ </body>
+</html>
+ 2020-12-03 11:05:29,984
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-03 11:05:30,005
+BotRun: Start bot: 79661384874 2020-12-03 11:06:36,847
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-03 11:06:36,866
+BotRun: Start Browser Error: 79661384874 message Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+ 2020-12-03 11:06:38,015
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-03 11:11:20,077
+BotRun: Start bot: 79661384874 2020-12-03 11:11:20,082
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-03 20:56:00,441
+BotRun: Start bot: 79661384874 2020-12-03 20:56:00,445
+BotRun: Start bot: 79661384874 2020-12-03 21:57:52,840
+BotRun: Start bot: 79661384874 2020-12-03 21:58:10,857
+BotRun: Start bot: 79661384874 2020-12-03 21:58:28,604
+BotRun: Start bot: 79661384874 2020-12-03 22:15:14,642
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-07 14:09:06,072
+BotRun: Start bot: +79919096756 2020-12-07 14:09:06,096
+BotRun: connect to VPN success: +79919096756 2020-12-07 14:09:21,235
+BotRun: Start Browser Error: +79919096756 message Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+ 2020-12-07 14:09:28,324
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-07 14:23:44,613
+BotRun: Start bot: +79919096756 2020-12-07 14:23:44,622
+BotRun: connect to VPN success: +79919096756 2020-12-07 14:23:59,662
+Login: Start 2020-12-07 14:24:03,043
+Navigator: navigate to Home Page: success 2020-12-07 14:24:38,115
+Navigator: navigate to Home Page: success 2020-12-07 14:24:50,359
+Login: Login success: +79919096756 2020-12-07 14:24:50,359
+BotRun: Core Critical Error: +79919096756 message 'NoneType' object is not subscriptable 2020-12-07 14:24:53,583
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-07 14:41:55,292
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-07 14:46:32,594
+BotRun: Start bot: +79919096756 2020-12-07 14:46:32,596
+BotRun: connect to VPN success: +79919096756 2020-12-07 14:46:47,614
+Login: Start 2020-12-07 14:46:49,042
+Navigator: navigate to Home Page: success 2020-12-07 14:47:21,898
+Navigator: navigate to Home Page: success 2020-12-07 14:47:35,096
+Login: Login success: +79919096756 2020-12-07 14:47:35,096
+BotRun: Core Critical Error: +79919096756 message 'NoneType' object is not subscriptable 2020-12-07 14:47:38,249
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 08:34:50,562
+BotRun: Start bot: +79919096756 2020-12-08 08:35:31,366
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 08:35:31,379
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 08:36:36,520
+BotRun: Start bot: +79919096756 2020-12-08 08:36:36,524
+BotRun: connect to VPN success: +79919096756 2020-12-08 08:36:51,541
+Login: Start 2020-12-08 08:36:52,944
+Navigator: navigate to Home Page: success 2020-12-08 08:37:26,366
+Navigator: navigate to Home Page: success 2020-12-08 08:37:40,554
+Login: Login success: +79919096756 2020-12-08 08:37:40,554
+BotRun: Core Critical Error: +79919096756 message 'NoneType' object is not subscriptable 2020-12-08 08:37:42,715
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 13:18:05,315
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 13:18:24,285
+BotRun: Start bot: +79919096756 2020-12-08 13:18:24,298
+BotRun: connect to VPN success: +79919096756 2020-12-08 13:18:39,316
+BotRun: Start Browser Error: +79919096756 message Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+ 2020-12-08 13:18:40,437
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 13:19:08,666
+BotRun: Start bot: +79919096756 2020-12-08 13:19:08,667
+BotRun: connect to VPN success: +79919096756 2020-12-08 13:19:23,671
+Login: Start 2020-12-08 13:19:25,127
+Navigator: navigate to Home Page: success 2020-12-08 13:19:59,183
+Navigator: navigate to Home Page: success 2020-12-08 13:20:08,404
+Login: Login success: +79919096756 2020-12-08 13:20:08,404
+BotRun: Core Critical Error: +79919096756 message 'NoneType' object is not subscriptable 2020-12-08 13:20:11,556
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 14:41:31,153
+BotRun: Start bot: +79919096756 2020-12-08 14:41:31,172
+BotRun: connect to VPN failed: +79919096756 2020-12-08 14:41:46,183
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 14:42:09,022
+BotRun: Start bot: +79919096756 2020-12-08 14:42:09,024
+BotRun: connect to VPN success: +79919096756 2020-12-08 14:42:24,046
+Login: Start 2020-12-08 14:42:25,474
+Navigator: navigate to Home Page: success 2020-12-08 14:43:01,844
+Navigator: navigate to Home Page: success 2020-12-08 14:43:18,066
+Login: Login success: +79919096756 2020-12-08 14:43:18,066
+BotRun: Core Critical Error: +79919096756 message 'NoneType' object is not subscriptable 2020-12-08 14:43:21,211
+BotRun: Start bot: +79919096756 2020-12-08 17:04:12,861
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:04:12,865
+BotRun: connect to VPN success: +79919096756 2020-12-08 17:04:27,884
+Login: Start 2020-12-08 17:04:29,281
+Navigator: navigate to Home Page: success 2020-12-08 17:05:02,445
+Navigator: navigate to Home Page: success 2020-12-08 17:05:18,604
+Login: Login success: +79919096756 2020-12-08 17:05:18,604
+BotSearchVideos: Start 2020-12-08 17:05:40,785
+Navigator: navigate to Home Page: success 2020-12-08 17:05:56,974
+BotSearchVideos: Videos view success 2020-12-08 17:06:11,637
+BotRun: Core Critical Error: +79919096756 message 'NoneType' object is not subscriptable 2020-12-08 17:06:11,752
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:18:32,932
+BotRun: Start bot: +79919096756 2020-12-08 17:18:32,934
+BotRun: connect to VPN failed: +79919096756 2020-12-08 17:18:47,952
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:18:56,900
+BotRun: Start bot: +79919096756 2020-12-08 17:18:56,901
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:23:53,221
+BotRun: Start bot: +79919096756 2020-12-08 17:23:53,229
+BotRun: connect to VPN success: +79919096756 2020-12-08 17:24:08,250
+Login: Start 2020-12-08 17:24:09,657
+Navigator: navigate to Home Page: success 2020-12-08 17:24:44,172
+Navigator: navigate to Home Page: success 2020-12-08 17:24:57,404
+Login: Login success: +79919096756 2020-12-08 17:24:57,405
+BotRun: Core Critical Error: +79919096756 message 'NoneType' object is not subscriptable 2020-12-08 17:25:00,696
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:29:52,939
+BotRun: Start bot: +79919096756 2020-12-08 17:29:52,941
+BotRun: connect to VPN success: +79919096756 2020-12-08 17:30:07,960
+Login: Start 2020-12-08 17:30:09,361
+Navigator: navigate to Home Page: success 2020-12-08 17:30:39,923
+Navigator: navigate to Home Page: success 2020-12-08 17:30:53,140
+Login: Login success: +79919096756 2020-12-08 17:30:53,140
+BotSearchVideos: Start 2020-12-08 17:31:20,469
+Navigator: navigate to Home Page: success 2020-12-08 17:31:36,639
+BotSearchVideos: Videos view success 2020-12-08 17:31:57,044
+BotSearchPosts: Start 2020-12-08 17:32:21,283
+Navigator: navigate to Home Page: success 2020-12-08 17:32:31,542
+BotSearchVideos: Start 2020-12-08 17:33:05,725
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:34:05,865
+BotRun: Start bot: +79919096756 2020-12-08 17:34:05,870
+BotRun: connect to VPN success: +79919096756 2020-12-08 17:34:20,887
+Login: Start 2020-12-08 17:34:22,288
+Navigator: navigate to Home Page: success 2020-12-08 17:35:05,229
+Navigator: navigate to Home Page: success 2020-12-08 17:35:16,415
+Login: Login success: +79919096756 2020-12-08 17:35:16,415
+BotSearchVideos: Start 2020-12-08 17:35:40,734
+Navigator: navigate to Home Page: success 2020-12-08 17:35:56,949
+BotSearchVideos: Videos view success 2020-12-08 17:36:13,612
+Post: Start 2020-12-08 17:36:13,816
+Navigator: navigate to Groups Page: success 2020-12-08 17:36:26,969
+BotRun: Start bot: +79919096756 2020-12-08 17:40:13,485
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:40:13,488
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:44:43,230
+BotRun: Start bot: +79919096756 2020-12-08 17:44:43,234
+BotRun: connect to VPN success: +79919096756 2020-12-08 17:44:58,285
+Login: Start 2020-12-08 17:44:59,706
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 17:45:50,241
+BotRun: Start bot: +79919096756 2020-12-08 17:45:50,245
+BotRun: connect to VPN success: +79919096756 2020-12-08 17:46:05,266
+Login: Start 2020-12-08 17:46:06,669
+Navigator: navigate to Home Page: success 2020-12-08 17:46:37,901
+Navigator: navigate to Home Page: success 2020-12-08 17:46:50,068
+Login: Login success: +79919096756 2020-12-08 17:46:50,068
+BotSearchVideos: Start 2020-12-08 17:47:15,375
+Navigator: navigate to Home Page: success 2020-12-08 17:47:32,580
+BotSearchVideos: Videos view success 2020-12-08 17:47:51,218
+Post: Start 2020-12-08 17:47:51,431
+Navigator: navigate to Groups Page: success 2020-12-08 17:48:08,554
+Navigator: navigate to Home Page: success 2020-12-08 17:48:33,827
+Post: Start write post: +79919096756 2020-12-08 17:48:33,830
+BotRun: Core Critical Error: +79919096756 message Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='Add to Your Post']"}
+  (Session info: chrome=87.0.4280.88)
+ 2020-12-08 17:49:15,627
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 18:56:42,194
+BotRun: Start bot: +79919096756 2020-12-08 18:56:42,198
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2020-12-08 18:57:17,130
+BotRun: Start bot: +79919096756 2020-12-08 18:57:17,133
+BotRun: connect to VPN success: +79919096756 2020-12-08 18:57:32,156
+Login: Start 2020-12-08 18:57:33,549
+Navigator: Error: Message: element click intercepted: Element <a aria-current="page" aria-label="Home" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t pi1r6xr4 taijpn5t k4urcfbm" href="/" role="link" tabindex="0">...</a> is not clickable at point (230, 28). Other element would receive the click: <div class="gs1a9yip rq0escxv j83agx80 cbu4d94t taijpn5t h3gjbzrl dflh9lhu scb9dxdr ir0402vp n7vda9r4">...</div>
+  (Session info: chrome=87.0.4280.88)
+ 2020-12-08 18:57:53,220
+Navigator: Error: Message: element click intercepted: Element <a aria-label="Home" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t pi1r6xr4 taijpn5t k4urcfbm" href="/" role="link" tabindex="0" aria-current="page">...</a> is not clickable at point (230, 28). Other element would receive the click: <div class="gs1a9yip rq0escxv j83agx80 cbu4d94t taijpn5t h3gjbzrl dflh9lhu scb9dxdr ir0402vp n7vda9r4">...</div>
+  (Session info: chrome=87.0.4280.88)
+ 2020-12-08 18:58:32,559
+BotRun: Core Critical Error: +79919096756 message Navigator: Error: Message: element click intercepted: Element <a aria-label="Home" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t pi1r6xr4 taijpn5t k4urcfbm" href="/" role="link" tabindex="0" aria-current="page">...</a> is not clickable at point (230, 28). Other element would receive the click: <div class="gs1a9yip rq0escxv j83agx80 cbu4d94t taijpn5t h3gjbzrl dflh9lhu scb9dxdr ir0402vp n7vda9r4">...</div>
+  (Session info: chrome=87.0.4280.88)
+ 2020-12-08 18:58:32,559
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-12 17:51:07,995
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-12 17:52:12,280
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-12 17:54:40,071
+BotRun: Start bot: +79919096756 2021-01-12 17:56:08,081
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-12 17:56:12,605
+Login: Start 2021-01-12 17:56:20,162
+BotRun: Core Critical Error: +79919096756 message Message: no such window: window was already closed
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-12 17:56:57,143
+BotRunTest: start bot failed, SQL error: could not connect to server: Operation timed out
+	Is the server running on host "172.31.47.27" and accepting
+	TCP/IP connections on port 5432?
+ 2021-01-14 13:11:09,334
+BotRunTest: Start bot: +79913971829 2021-01-14 13:12:05,147
+QuickLogin: Start 2021-01-14 13:12:15,121
+QuickLogin: Login success: +79913971829 2021-01-14 13:12:21,679
+BotRunTest: BotCore Error: +79913971829 message 'RR' object has no attribute 'shirt_wait_range' 2021-01-14 13:12:21,680
+BotRunTest: Start bot: +79913971829 2021-01-14 13:13:11,572
+QuickLogin: Start 2021-01-14 13:13:15,750
+QuickLogin: Login success: +79913971829 2021-01-14 13:13:19,480
+BotRunTest: BotCore Error: +79913971829 message __init__() missing 1 required positional argument: 'random_range' 2021-01-14 13:13:22,486
+BotRunTest: Start bot: +79913971829 2021-01-14 13:14:04,401
+QuickLogin: Start 2021-01-14 13:14:08,669
+QuickLogin: Login success: +79913971829 2021-01-14 13:14:12,775
+BotSearchGroupsByLink: Start 2021-01-14 13:14:14,832
+BotRunTest: BotCore Error: +79913971829 message int() argument must be a string, a bytes-like object or a number, not 'NoneType' 2021-01-14 13:14:27,344
+BotRunTest: Start bot: +79913971829 2021-01-14 13:15:01,351
+QuickLogin: Start 2021-01-14 13:15:05,128
+QuickLogin: Login success: +79913971829 2021-01-14 13:15:09,565
+BotRunTest: BotCore Error: +79913971829 message 'list' object has no attribute 'split' 2021-01-14 13:15:11,599
+BotRunTest: Start bot: +79913971829 2021-01-14 13:15:52,889
+QuickLogin: Start 2021-01-14 13:15:56,482
+QuickLogin: Login success: +79913971829 2021-01-14 13:16:00,888
+BotSearchGroupsByLink: Start 2021-01-14 13:16:03,924
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-14 13:16:13,503
+BotRunTest: Start bot: +79913971829 2021-01-14 13:20:14,960
+QuickLogin: Start 2021-01-14 13:20:19,650
+QuickLogin: Login success: +79913971829 2021-01-14 13:20:22,963
+BotSearchGroupsByLink: Start 2021-01-14 13:20:25,998
+BotRunTest: BotCore Error: +79913971829 message int() argument must be a string, a bytes-like object or a number, not 'NoneType' 2021-01-14 13:21:00,189
+BotRunTest: Start bot: +79913971829 2021-01-14 13:22:17,346
+QuickLogin: Start 2021-01-14 13:22:20,909
+QuickLogin: Login success: +79913971829 2021-01-14 13:24:14,177
+BotRunTest: BotCore Error: +79913971829 message SSL SYSCALL error: Operation timed out
+ 2021-01-14 13:24:35,871
+BotRunTest: start bot failed, SQL error: could not connect to server: Operation timed out
+	Is the server running on host "3.126.146.115" and accepting
+	TCP/IP connections on port 5432?
+ 2021-01-14 13:25:15,060
+BotRunTest: start bot failed, SQL error: could not connect to server: Operation timed out
+	Is the server running on host "3.126.146.115" and accepting
+	TCP/IP connections on port 5432?
+ 2021-01-14 13:25:45,797
+BotRunTest: Start bot: +79913971829 2021-01-14 13:26:31,140
+QuickLogin: Start 2021-01-14 13:26:36,150
+QuickLogin: Login success: +79913971829 2021-01-14 13:26:40,731
+BotSearchGroupsByLink: Start 2021-01-14 13:26:43,775
+BotRunTest: BotCore Error: +79913971829 message int() argument must be a string, a bytes-like object or a number, not 'NoneType' 2021-01-14 13:27:13,723
+BotRunTest: start bot failed, SQL error: could not connect to server: Operation timed out
+	Is the server running on host "3.126.146.115" and accepting
+	TCP/IP connections on port 5432?
+ 2021-01-14 13:28:43,004
+BotRunTest: Start bot: +79913971829 2021-01-14 13:32:20,762
+QuickLogin: Start 2021-01-14 13:32:26,774
+QuickLogin: Login success: +79913971829 2021-01-14 13:32:30,378
+BotSearchGroupsByLink: Start 2021-01-14 13:32:32,414
+BotRunTest: BotCore Error: +79913971829 message int() argument must be a string, a bytes-like object or a number, not 'NoneType' 2021-01-14 13:33:03,218
+BotRunTest: Start bot: +79913971829 2021-01-14 13:33:20,321
+QuickLogin: Start 2021-01-14 13:33:24,940
+QuickLogin: Login success: +79913971829 2021-01-14 13:33:28,713
+BotSearchGroupsByLink: Start 2021-01-14 13:33:30,746
+BotRunTest: BotCore Error: +79913971829 message save_extracted_groups() missing 2 required positional arguments: 'name' and 'bot_error' 2021-01-14 13:34:10,323
+BotRunTest: Start bot: +79913971829 2021-01-14 13:35:56,036
+QuickLogin: Start 2021-01-14 13:36:01,279
+QuickLogin: Login success: +79913971829 2021-01-14 13:36:04,659
+BotSearchGroupsByLink: Start 2021-01-14 13:36:06,696
+BotSearchGroupsByLink: Finish: +79913971829 2021-01-14 13:36:38,870
+BotSearchGroupsByLink: Start 2021-01-14 13:36:38,871
+BotSearchGroupsByLink: Finish: +79913971829 2021-01-14 13:37:11,441
+BotSearchGroupsByLink: Start 2021-01-14 13:37:11,443
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-14 13:37:22,795
+BotRunTest: Start bot: +79913971829 2021-01-14 13:38:06,739
+QuickLogin: Start 2021-01-14 13:38:11,638
+QuickLogin: Login success: +79913971829 2021-01-14 13:38:15,135
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,172
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,233
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,320
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,408
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,496
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,583
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,671
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,757
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,844
+BotSearchGroupsByLink: Start 2021-01-14 13:38:18,935
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,022
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,111
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,201
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,288
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,374
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,462
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,549
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,636
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,727
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,813
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,901
+BotSearchGroupsByLink: Start 2021-01-14 13:38:19,987
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,074
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,166
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,258
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,351
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,438
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,524
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,612
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,699
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,787
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,874
+BotSearchGroupsByLink: Start 2021-01-14 13:38:20,961
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,047
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,135
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,225
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,314
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,402
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,488
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,575
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,664
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,750
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,840
+BotSearchGroupsByLink: Start 2021-01-14 13:38:21,937
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,029
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,115
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,205
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,292
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,381
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,468
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,557
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,643
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,730
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,819
+BotSearchGroupsByLink: Start 2021-01-14 13:38:22,905
+BotRunTest: bot growing success: +79913971829 2021-01-14 13:38:23,099
+BotRunTest: Start bot: +79913971829 2021-01-14 13:39:29,240
+QuickLogin: Start 2021-01-14 13:39:33,632
+QuickLogin: Login success: +79913971829 2021-01-14 13:39:37,111
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,148
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,213
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,307
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,402
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,504
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,601
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,697
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,794
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,888
+BotSearchGroupsByLink: Start 2021-01-14 13:39:39,983
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,082
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,181
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,277
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,372
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,467
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,564
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,659
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,763
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,872
+BotSearchGroupsByLink: Start 2021-01-14 13:39:40,967
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,063
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,158
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,252
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,348
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,444
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,538
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,633
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,729
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,825
+BotSearchGroupsByLink: Start 2021-01-14 13:39:41,920
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,018
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,112
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,207
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,304
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,403
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,500
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,603
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,701
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,795
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,890
+BotSearchGroupsByLink: Start 2021-01-14 13:39:42,988
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,086
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,182
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,280
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,374
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,470
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,570
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,666
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,762
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,861
+BotSearchGroupsByLink: Start 2021-01-14 13:39:43,956
+BotSearchGroupsByLink: Start 2021-01-14 13:39:44,052
+BotSearchGroupsByLink: Start 2021-01-14 13:39:44,147
+BotSearchGroupsByLink: Start 2021-01-14 13:39:44,241
+BotSearchGroupsByLink: Start 2021-01-14 13:39:44,336
+BotRunTest: bot growing success: +79913971829 2021-01-14 13:39:44,539
+BotRunTest: Start bot: +79913971829 2021-01-14 16:28:59,767
+QuickLogin: Start 2021-01-14 16:29:10,420
+QuickLogin: Login success: +79913971829 2021-01-14 16:29:16,941
+BotRunTest: BotCore Error: +79913971829 message 'search_group' 2021-01-14 16:29:18,946
+BotRunTest: Start bot: +79913971829 2021-01-15 11:17:31,479
+BotRunTest: BotCore Error: +79913971829 message 'search_group' 2021-01-15 11:17:40,646
+BotRunTest: Start bot: +79913971829 2021-01-15 11:18:14,060
+GroupsShare: Start 2021-01-15 11:18:17,489
+BotRunTest: Start bot: +79913971829 2021-01-15 11:18:42,175
+GroupsShare: Start 2021-01-15 11:18:45,279
+BotRunTest: Start bot: +79913971829 2021-01-15 11:19:08,205
+GroupsShare: Start 2021-01-15 11:19:10,672
+BotRunTest: Start bot: +79913971829 2021-01-15 11:19:52,917
+GroupsShare: Start 2021-01-15 11:19:56,428
+BotRunTest: Start bot: +79913971829 2021-01-15 11:21:16,093
+GroupsShare: Start 2021-01-15 11:21:19,572
+BotRunTest: Start bot: +79913971829 2021-01-15 11:24:37,715
+QuickLogin: Start 2021-01-15 11:24:43,081
+QuickLogin: Login success: +79913971829 2021-01-15 11:24:47,766
+GroupsShare: Start 2021-01-15 11:24:50,769
+Navigator: navigate to Groups Page: success 2021-01-15 11:24:57,118
+BotRunTest: Start bot: +79913971829 2021-01-15 11:40:10,808
+QuickLogin: Start 2021-01-15 11:40:15,038
+QuickLogin: Login success: +79913971829 2021-01-15 11:40:18,463
+GroupsShare: Start 2021-01-15 11:40:20,468
+Navigator: navigate to Groups Page: success 2021-01-15 11:40:29,732
+BotRunTest: Start bot: +79913971829 2021-01-15 11:42:05,060
+QuickLogin: Start 2021-01-15 11:42:09,604
+QuickLogin: Login success: +79913971829 2021-01-15 11:42:13,783
+GroupsShare: Start 2021-01-15 11:42:15,790
+Navigator: navigate to Groups Page: success 2021-01-15 11:42:22,069
+BotRunTest: Start bot: +79913971829 2021-01-15 11:48:28,646
+QuickLogin: Start 2021-01-15 11:48:33,033
+QuickLogin: Login success: +79913971829 2021-01-15 11:48:36,923
+GroupsShare: Start 2021-01-15 11:48:39,939
+Navigator: navigate to Groups Page: success 2021-01-15 11:48:47,268
+BotRunTest: Start bot: +79913971829 2021-01-15 11:50:03,560
+QuickLogin: Start 2021-01-15 11:50:07,581
+QuickLogin: Login success: +79913971829 2021-01-15 11:50:11,425
+GroupsShare: Start 2021-01-15 11:50:14,430
+Navigator: navigate to Groups Page: success 2021-01-15 11:50:21,867
+BotRunTest: BotCore Error: +79913971829 message 'list' object has no attribute 'text' 2021-01-15 11:50:23,948
+BotRunTest: Start bot: +79913971829 2021-01-15 11:50:36,739
+QuickLogin: Start 2021-01-15 11:50:41,629
+QuickLogin: Login success: +79913971829 2021-01-15 11:50:45,585
+GroupsShare: Start 2021-01-15 11:50:47,589
+Navigator: navigate to Groups Page: success 2021-01-15 11:50:55,885
+BotRunTest: Start bot: +79913971829 2021-01-15 11:51:16,996
+QuickLogin: Start 2021-01-15 11:51:21,151
+QuickLogin: Login success: +79913971829 2021-01-15 11:51:24,930
+GroupsShare: Start 2021-01-15 11:51:26,934
+Navigator: navigate to Groups Page: success 2021-01-15 11:51:33,235
+BotRunTest: Start bot: +79913971829 2021-01-15 11:52:14,727
+QuickLogin: Start 2021-01-15 11:52:19,764
+QuickLogin: Login success: +79913971829 2021-01-15 11:52:23,309
+GroupsShare: Start 2021-01-15 11:52:25,309
+Navigator: navigate to Groups Page: success 2021-01-15 11:52:32,578
+BotRunTest: Start bot: +79913971829 2021-01-15 12:03:27,251
+QuickLogin: Start 2021-01-15 12:03:32,474
+QuickLogin: Login success: +79913971829 2021-01-15 12:03:35,983
+GroupsShare: Start 2021-01-15 12:03:37,986
+Navigator: navigate to Groups Page: success 2021-01-15 12:03:48,286
+BotRunTest: BotCore Error: +79913971829 message 'in <string>' requires string as left operand, not tuple 2021-01-15 12:03:54,360
+BotRunTest: Start bot: +79913971829 2021-01-15 12:05:47,595
+QuickLogin: Start 2021-01-15 12:05:53,004
+QuickLogin: Login success: +79913971829 2021-01-15 12:05:56,383
+GroupsShare: Start 2021-01-15 12:05:59,387
+Navigator: navigate to Groups Page: success 2021-01-15 12:06:06,831
+BotRunTest: BotCore Error: +79913971829 message 'in <string>' requires string as left operand, not tuple 2021-01-15 12:06:13,964
+BotRunTest: Start bot: +79913971829 2021-01-15 12:07:48,377
+QuickLogin: Start 2021-01-15 12:07:53,202
+QuickLogin: Login success: +79913971829 2021-01-15 12:07:56,952
+GroupsShare: Start 2021-01-15 12:07:58,953
+Navigator: navigate to Groups Page: success 2021-01-15 12:08:05,264
+BotRunTest: Start bot: +79913971829 2021-01-15 12:10:06,999
+QuickLogin: Start 2021-01-15 12:10:10,747
+QuickLogin: Login success: +79913971829 2021-01-15 12:10:15,020
+GroupsShare: Start 2021-01-15 12:10:18,023
+Navigator: navigate to Groups Page: success 2021-01-15 12:10:26,368
+BotRunTest: Start bot: +79913971829 2021-01-15 12:13:16,933
+QuickLogin: Start 2021-01-15 12:13:21,193
+QuickLogin: Login success: +79913971829 2021-01-15 12:13:25,355
+GroupsShare: Start 2021-01-15 12:13:28,356
+Navigator: navigate to Groups Page: success 2021-01-15 12:13:37,693
+BotRunTest: Start bot: +79913971829 2021-01-15 12:16:37,315
+QuickLogin: Start 2021-01-15 12:16:41,012
+QuickLogin: Login success: +79913971829 2021-01-15 12:16:45,257
+GroupsShare: Start 2021-01-15 12:16:47,262
+Navigator: navigate to Groups Page: success 2021-01-15 12:16:55,585
+BotRunTest: Start bot: +79913971829 2021-01-15 12:17:33,302
+QuickLogin: Start 2021-01-15 12:17:37,478
+QuickLogin: Login success: +79913971829 2021-01-15 12:17:41,736
+GroupsShare: Start 2021-01-15 12:17:43,737
+Navigator: navigate to Groups Page: success 2021-01-15 12:17:54,088
+BotRunTest: Start bot: +79913971829 2021-01-15 12:20:12,154
+QuickLogin: Start 2021-01-15 12:20:15,583
+QuickLogin: Login success: +79913971829 2021-01-15 12:20:19,962
+GroupsShare: Start 2021-01-15 12:20:21,966
+Navigator: navigate to Groups Page: success 2021-01-15 12:20:29,298
+BotRunTest: Start bot: +79913971829 2021-01-15 12:27:52,296
+QuickLogin: Start 2021-01-15 12:27:56,350
+QuickLogin: Login success: +79913971829 2021-01-15 12:28:00,211
+GroupsShare: Start 2021-01-15 12:28:02,215
+Navigator: navigate to Groups Page: success 2021-01-15 12:28:10,523
+BotRunTest: Start bot: +79913971829 2021-01-15 12:38:32,680
+QuickLogin: Start 2021-01-15 12:38:36,682
+QuickLogin: Login success: +79913971829 2021-01-15 12:38:41,135
+GroupsShare: Start 2021-01-15 12:38:43,141
+Navigator: navigate to Groups Page: success 2021-01-15 12:38:52,467
+BotRunTest: Start bot: +79913971829 2021-01-15 13:06:19,825
+QuickLogin: Start 2021-01-15 13:06:25,181
+QuickLogin: Login success: +79913971829 2021-01-15 13:06:28,680
+GroupsShare: Start 2021-01-15 13:06:30,681
+Navigator: navigate to Groups Page: success 2021-01-15 13:06:39,964
+BotRunTest: Start bot: +79913971829 2021-01-15 13:11:32,047
+QuickLogin: Start 2021-01-15 13:11:36,680
+QuickLogin: Login success: +79913971829 2021-01-15 13:11:41,002
+GroupsShare: Start 2021-01-15 13:11:44,003
+Navigator: navigate to Groups Page: success 2021-01-15 13:11:51,324
+BotRunTest: BotCore Error: +79913971829 message Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@aria-label,'List of groups')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 13:11:54,348
+BotRunTest: Start bot: +79913971829 2021-01-15 13:46:57,185
+QuickLogin: Start 2021-01-15 13:47:03,331
+QuickLogin: Login success: +79913971829 2021-01-15 13:47:09,064
+GroupsShare: Start 2021-01-15 13:47:11,068
+Navigator: navigate to Groups Page: success 2021-01-15 13:47:17,449
+BotRunTest: Start bot: +79913971829 2021-01-15 14:55:48,965
+BotSearchPagesByLink: Start 2021-01-15 14:55:52,686
+BotRunTest: bot growing success: +79913971829 2021-01-15 14:55:52,876
+BotRunTest: Start bot: +79913971829 2021-01-15 15:10:55,338
+QuickLogin: Start 2021-01-15 15:11:00,207
+QuickLogin: Login success: +79913971829 2021-01-15 15:11:03,755
+FollowPage: Start 2021-01-15 15:11:06,791
+BotRunTest: Start bot: +79913971829 2021-01-15 15:12:26,452
+Login: Start 2021-01-15 15:12:28,934
+Login: Login not success, trying login/password: +79913971829 2021-01-15 15:12:39,231
+Navigator: navigate to Home Page: success 2021-01-15 15:13:48,454
+Navigator: navigate to Home Page: success 2021-01-15 15:13:54,543
+Login: Login success: +79913971829 2021-01-15 15:13:54,543
+FollowPage: Start 2021-01-15 15:13:56,581
+BotRunTest: Start bot: +79913971829 2021-01-15 15:45:02,567
+QuickLogin: Start 2021-01-15 15:45:07,242
+QuickLogin: Login success: +79913971829 2021-01-15 15:45:11,998
+FollowPage: Start 2021-01-15 15:45:15,034
+BotRunTest: BotCore Error: +79913971829 message Message: element click intercepted: Element <a ajaxify="/ufi/reaction/profile/dialog/?ft_ent_identifier=ZmVlZGJhY2s6MTM2MDczODk1MDk0NDkyOA%3D%3D&amp;reaction_type=1&amp;av=0" href="/ufi/reaction/profile/browser/?ft_ent_identifier=ZmVlZGJhY2s6MTM2MDczODk1MDk0NDkyOA%3D%3D&amp;av=0" rel="dialog" aria-label="8 Like" class="_1n9l" tabindex="0" role="button">...</a> is not clickable at point (439, 814). Other element would receive the click: <div class="_3ob9" id="u_0_1m">...</div>
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 15:45:25,367
+BotRunTest: Start bot: +79913971829 2021-01-15 15:46:01,402
+Login: Start 2021-01-15 15:46:04,816
+Login: Login not success, trying login/password: +79913971829 2021-01-15 15:46:15,125
+Navigator: navigate to Home Page: success 2021-01-15 15:47:23,598
+Navigator: navigate to Home Page: success 2021-01-15 15:47:31,734
+Login: Login success: +79913971829 2021-01-15 15:47:31,736
+FollowPage: Start 2021-01-15 15:47:33,770
+BotRunTest: BotCore Error: +79913971829 message Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label,'Like')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 15:47:40,391
+BotRunTest: Start bot: +79913971829 2021-01-15 15:49:26,660
+Login: Start 2021-01-15 15:49:30,523
+Login: Login not success, trying login/password: +79913971829 2021-01-15 15:49:39,764
+Navigator: navigate to Home Page: success 2021-01-15 15:50:47,602
+Navigator: navigate to Home Page: success 2021-01-15 15:50:54,730
+Login: Login success: +79913971829 2021-01-15 15:50:54,731
+FollowPage: Start 2021-01-15 15:50:56,771
+BotRunTest: BotCore Error: +79913971829 message update_extracted_pages_sucess() missing 1 required positional argument: 'exit_status' 2021-01-15 15:51:06,636
+BotRunTest: Start bot: +79913971829 2021-01-15 15:51:55,317
+Login: Start 2021-01-15 15:51:59,165
+Login: Login not success, trying login/password: +79913971829 2021-01-15 15:52:07,528
+Navigator: navigate to Home Page: success 2021-01-15 15:53:15,993
+Navigator: navigate to Home Page: success 2021-01-15 15:53:24,101
+Login: Login success: +79913971829 2021-01-15 15:53:24,101
+FollowPage: Start 2021-01-15 15:53:27,138
+FollowPage: Bot sent like request: +79913971829 2021-01-15 15:53:39,163
+FollowPage: Finish: +79913971829 2021-01-15 15:53:41,166
+BotRunTest: Start bot: +79025217813 2021-01-15 16:47:56,377
+Login: Start 2021-01-15 16:48:00,880
+Login: Login not success, trying login/password: +79025217813 2021-01-15 16:48:11,368
+Navigator: Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label,'Home')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 16:49:06,502
+Navigator: Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label,'Home')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 16:49:45,118
+BotRunTest: BotCore Error: +79025217813 message Navigator: Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label,'Home')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 16:49:45,120
+BotRunTest: Start bot: +79025217813 2021-01-15 16:52:13,473
+Login: Start 2021-01-15 16:52:17,564
+Login: Login not success, trying login/password: +79025217813 2021-01-15 16:52:29,540
+Navigator: Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@aria-label,'Home')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 16:53:25,672
+BotRunTest: BotCore Error: +79025217813 message Message: no such window: window was already closed
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-15 16:53:48,640
+BotRunTest: Start bot: +79913971829 2021-01-16 12:39:45,412
+Login: Start 2021-01-16 12:39:48,883
+Login: Login not success, trying login/password: +79913971829 2021-01-16 12:39:56,979
+BotRunTest: Start bot: +79913971829 2021-01-16 12:40:17,624
+Login: Start 2021-01-16 12:40:20,452
+Login: Login not success, trying login/password: +79913971829 2021-01-16 12:40:28,613
+Navigator: navigate to Home Page: success 2021-01-16 12:41:34,804
+Navigator: navigate to Home Page: success 2021-01-16 12:41:40,935
+Login: Login success: +79913971829 2021-01-16 12:41:40,937
+BotRunTest: Start bot: +79913971829 2021-01-16 12:48:27,216
+Login: Start 2021-01-16 12:48:30,384
+Login: Login not success, trying login/password: +79913971829 2021-01-16 12:48:38,222
+Navigator: navigate to Home Page: success 2021-01-16 12:49:49,375
+Navigator: navigate to Home Page: success 2021-01-16 12:49:56,481
+Login: Login success: +79913971829 2021-01-16 12:49:56,481
+BotRunTest: Start bot: +79913971829 2021-01-16 12:52:05,357
+Login: Start 2021-01-16 12:52:07,991
+Login: Login not success, trying login/password: +79913971829 2021-01-16 12:52:18,003
+Navigator: navigate to Home Page: success 2021-01-16 12:53:25,243
+Navigator: navigate to Home Page: success 2021-01-16 12:53:32,363
+Login: Login success: +79913971829 2021-01-16 12:53:32,365
+BotRunTest: Start bot: +79913971829 2021-01-16 12:54:21,216
+Login: Start 2021-01-16 12:54:24,284
+Login: Login not success, trying login/password: +79913971829 2021-01-16 12:54:35,705
+Navigator: navigate to Home Page: success 2021-01-16 12:55:46,945
+Navigator: navigate to Home Page: success 2021-01-16 12:55:55,052
+Login: Login success: +79913971829 2021-01-16 12:55:55,053
+BotRunTest: Start bot: +79913971829 2021-01-16 12:57:39,255
+Login: Start 2021-01-16 12:57:42,452
+Navigator: navigate to Home Page: success 2021-01-16 12:58:08,446
+Navigator: navigate to Home Page: success 2021-01-16 12:58:16,529
+Login: Login success: +79913971829 2021-01-16 12:58:16,529
+BotRunTest: Start bot: +79913971829 2021-01-16 12:58:39,675
+Login: Start 2021-01-16 12:58:42,706
+BotRunTest: Start bot: +79913971829 2021-01-16 13:00:35,661
+Login: Start 2021-01-16 13:00:39,057
+Navigator: navigate to Home Page: success 2021-01-16 13:00:57,866
+Navigator: navigate to Home Page: success 2021-01-16 13:01:04,962
+Login: Login success: +79913971829 2021-01-16 13:01:04,962
+BotRunTest: Start bot: +79913971829 2021-01-16 13:02:53,328
+Login: Start 2021-01-16 13:02:56,518
+Navigator: navigate to Home Page: success 2021-01-16 13:03:20,348
+Navigator: navigate to Home Page: success 2021-01-16 13:03:30,449
+Login: Login success: +79913971829 2021-01-16 13:03:30,450
+BotRunTest: Start bot: +79913971829 2021-01-16 13:09:21,353
+Login: Start 2021-01-16 13:09:24,572
+Navigator: navigate to Home Page: success 2021-01-16 13:09:46,431
+Navigator: navigate to Home Page: success 2021-01-16 13:09:53,512
+Login: Login success: +79913971829 2021-01-16 13:09:53,513
+BotRunTest: Start bot: +79913971829 2021-01-16 14:47:20,235
+Login: Start 2021-01-16 14:47:23,804
+Navigator: navigate to Home Page: success 2021-01-16 14:47:50,280
+Navigator: navigate to Home Page: success 2021-01-16 14:47:57,387
+Login: Login success: +79913971829 2021-01-16 14:47:57,388
+NewsFeed: Start 2021-01-16 14:48:00,477
+Navigator: navigate to Home Page: success 2021-01-16 14:48:08,572
+NewsFeed: Start news feed view: +79913971829 2021-01-16 14:48:08,574
+BotRunTest: Start bot: +79913971829 2021-01-16 14:50:34,979
+Login: Start 2021-01-16 14:50:37,999
+Navigator: navigate to Home Page: success 2021-01-16 14:51:02,088
+Navigator: navigate to Home Page: success 2021-01-16 14:51:12,179
+Login: Login success: +79913971829 2021-01-16 14:51:12,179
+NewsFeed: Start 2021-01-16 14:51:15,256
+Navigator: navigate to Home Page: success 2021-01-16 14:51:23,385
+NewsFeed: Start news feed view: +79913971829 2021-01-16 14:51:23,386
+BotRunTest: Start bot: +79913971829 2021-01-16 14:55:51,831
+Login: Start 2021-01-16 14:55:54,740
+Navigator: navigate to Home Page: success 2021-01-16 14:56:18,767
+Navigator: navigate to Home Page: success 2021-01-16 14:56:27,853
+Login: Login success: +79913971829 2021-01-16 14:56:27,853
+NewsFeed: Start 2021-01-16 14:56:30,942
+Navigator: navigate to Home Page: success 2021-01-16 14:56:38,072
+NewsFeed: Start news feed view: +79913971829 2021-01-16 14:56:38,072
+NewsFeed: News feed view finish: +79913971829 2021-01-16 15:00:54,254
+BotRunTest: Start bot: +79913971829 2021-01-16 15:04:26,055
+Login: Start 2021-01-16 15:04:29,078
+Navigator: navigate to Home Page: success 2021-01-16 15:04:53,121
+Navigator: navigate to Home Page: success 2021-01-16 15:05:00,207
+Login: Login success: +79913971829 2021-01-16 15:05:00,208
+NewsFeed: Start 2021-01-16 15:05:02,283
+Navigator: navigate to Home Page: success 2021-01-16 15:05:12,366
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:05:12,367
+BotRunTest: BotCore Error: +79913971829 message 'WebElement' object is not iterable 2021-01-16 15:05:46,612
+BotRunTest: Start bot: +79913971829 2021-01-16 15:06:04,131
+Login: Start 2021-01-16 15:06:07,145
+Navigator: navigate to Home Page: success 2021-01-16 15:06:33,128
+Navigator: navigate to Home Page: success 2021-01-16 15:06:39,216
+Login: Login success: +79913971829 2021-01-16 15:06:39,216
+NewsFeed: Start 2021-01-16 15:06:42,305
+Navigator: navigate to Home Page: success 2021-01-16 15:06:48,385
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:06:48,385
+NewsFeed: News feed view finish: +79913971829 2021-01-16 15:07:30,915
+BotRunTest: Start bot: +79913971829 2021-01-16 15:09:20,743
+Login: Start 2021-01-16 15:09:23,838
+Navigator: navigate to Home Page: success 2021-01-16 15:09:46,131
+Navigator: navigate to Home Page: success 2021-01-16 15:09:54,223
+Login: Login success: +79913971829 2021-01-16 15:09:54,225
+NewsFeed: Start 2021-01-16 15:09:57,310
+Navigator: navigate to Home Page: success 2021-01-16 15:10:04,418
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:10:04,419
+NewsFeed: News feed view finish: +79913971829 2021-01-16 15:12:31,470
+BotRunTest: Start bot: +79913971829 2021-01-16 15:13:59,581
+QuickLogin: Start 2021-01-16 15:14:03,971
+QuickLogin: Login success: +79913971829 2021-01-16 15:14:07,125
+NewsFeed: Start 2021-01-16 15:14:10,204
+Navigator: navigate to Home Page: success 2021-01-16 15:14:18,394
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:14:18,394
+BotRunTest: Start bot: +79913971829 2021-01-16 15:17:21,202
+QuickLogin: Start 2021-01-16 15:17:25,582
+QuickLogin: Login success: +79913971829 2021-01-16 15:17:28,899
+NewsFeed: Start 2021-01-16 15:17:31,993
+Navigator: navigate to Home Page: success 2021-01-16 15:17:41,219
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:17:41,220
+BotRunTest: Start bot: +79913971829 2021-01-16 15:23:40,590
+QuickLogin: Start 2021-01-16 15:23:44,695
+QuickLogin: Login success: +79913971829 2021-01-16 15:23:49,026
+NewsFeed: Start 2021-01-16 15:23:51,115
+Navigator: navigate to Home Page: success 2021-01-16 15:23:59,288
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:23:59,290
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:24:49,651
+BotRunTest: Start bot: +79913971829 2021-01-16 15:26:37,629
+QuickLogin: Start 2021-01-16 15:26:41,915
+QuickLogin: Login success: +79913971829 2021-01-16 15:26:45,633
+NewsFeed: Start 2021-01-16 15:26:48,712
+Navigator: navigate to Home Page: success 2021-01-16 15:26:55,878
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:26:55,879
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:28:07,347
+BotRunTest: Start bot: +79913971829 2021-01-16 15:29:02,262
+QuickLogin: Start 2021-01-16 15:29:06,774
+QuickLogin: Login success: +79913971829 2021-01-16 15:29:10,089
+NewsFeed: Start 2021-01-16 15:29:13,179
+Navigator: navigate to Home Page: success 2021-01-16 15:29:23,354
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:29:23,355
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:30:29,910
+BotRunTest: Start bot: +79913971829 2021-01-16 15:33:32,389
+QuickLogin: Start 2021-01-16 15:33:37,157
+QuickLogin: Login success: +79913971829 2021-01-16 15:33:40,823
+NewsFeed: Start 2021-01-16 15:33:43,912
+Navigator: navigate to Home Page: success 2021-01-16 15:33:54,117
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:33:54,118
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:34:50,690
+BotRunTest: Start bot: +79913971829 2021-01-16 15:40:00,755
+BotRunTest: Start bot: +79913971829 2021-01-16 15:40:08,976
+QuickLogin: Start 2021-01-16 15:40:12,733
+QuickLogin: Login success: +79913971829 2021-01-16 15:40:16,090
+NewsFeed: Start 2021-01-16 15:40:18,171
+Navigator: navigate to Home Page: success 2021-01-16 15:40:27,335
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:40:27,335
+BotRunTest: BotCore Error: +79913971829 message Message: invalid selector: Unable to locate an element with the xpath expression //div[contains(@aria-label,'Like'), contains(@role,'button')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@aria-label,'Like'), contains(@role,'button')]' is not a valid XPath expression.
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:41:22,733
+BotRunTest: Start bot: +79913971829 2021-01-16 15:43:21,126
+QuickLogin: Start 2021-01-16 15:43:25,609
+QuickLogin: Login success: +79913971829 2021-01-16 15:43:28,846
+NewsFeed: Start 2021-01-16 15:43:31,931
+Navigator: navigate to Home Page: success 2021-01-16 15:43:41,126
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:43:41,127
+BotRunTest: BotCore Error: +79913971829 message Message: element click intercepted: Element <div aria-label="Like: 8 people" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l" role="button" tabindex="0">...</div> is not clickable at point (407, 9). Other element would receive the click: <a aria-current="page" aria-label="Home" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t m7zwrmfr taijpn5t k4urcfbm" href="/" role="link" tabindex="0">...</a>
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:44:39,593
+BotRunTest: Start bot: +79913971829 2021-01-16 15:45:53,104
+QuickLogin: Start 2021-01-16 15:45:56,896
+QuickLogin: Login success: +79913971829 2021-01-16 15:46:01,131
+NewsFeed: Start 2021-01-16 15:46:04,226
+Navigator: navigate to Home Page: success 2021-01-16 15:46:12,354
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:46:12,355
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:47:35,940
+BotRunTest: Start bot: +79913971829 2021-01-16 15:52:25,541
+QuickLogin: Start 2021-01-16 15:52:29,913
+QuickLogin: Login success: +79913971829 2021-01-16 15:52:33,737
+NewsFeed: Start 2021-01-16 15:52:35,816
+Navigator: navigate to Home Page: success 2021-01-16 15:52:44,970
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:52:44,970
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:53:19,290
+BotRunTest: Start bot: +79913971829 2021-01-16 15:54:24,073
+QuickLogin: Start 2021-01-16 15:54:27,950
+QuickLogin: Login success: +79913971829 2021-01-16 15:54:31,520
+NewsFeed: Start 2021-01-16 15:54:33,603
+Navigator: navigate to Home Page: success 2021-01-16 15:54:40,793
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:54:40,793
+NewsFeed: Click like: +79913971829 2021-01-16 15:55:16,340
+BotRunTest: BotCore Error: +79913971829 message Message: element click intercepted: Element <div aria-label="Like" class="oajrlxb2 gs1a9yip g5ia77u1 mtkw9kbi tlpljxtp qensuy8j ppp5ayq2 goun2846 ccm00jje s44p3ltw mk2mc5f4 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv nhd2j8a9 pq6dq46d mg4g778l btwxx1t3 pfnyh3mw p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x tgvbjcpo hpfvmrgz jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso l9j0dhe7 i1ao9s8h esuyzwwr f1sip0of du4w35lb lzcic4wl abiwlrkh p8dawk7l" role="button" tabindex="0">...</div> is not clickable at point (502, 16). Other element would receive the click: <a aria-current="page" aria-label="Home" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t m7zwrmfr taijpn5t k4urcfbm" href="/" role="link" tabindex="0">...</a>
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 15:55:22,453
+BotRunTest: Start bot: +79913971829 2021-01-16 15:59:28,896
+QuickLogin: Start 2021-01-16 15:59:33,037
+QuickLogin: Login success: +79913971829 2021-01-16 15:59:36,332
+NewsFeed: Start 2021-01-16 15:59:39,411
+Navigator: navigate to Home Page: success 2021-01-16 15:59:47,554
+NewsFeed: Start news feed view: +79913971829 2021-01-16 15:59:47,554
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:00:25,857
+BotRunTest: Start bot: +79913971829 2021-01-16 16:01:39,119
+QuickLogin: Start 2021-01-16 16:01:49,101
+QuickLogin: Login success: +79913971829 2021-01-16 16:01:51,650
+NewsFeed: Start 2021-01-16 16:01:53,734
+Navigator: navigate to Home Page: success 2021-01-16 16:02:03,922
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:02:03,923
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:02:25,207
+BotRunTest: Start bot: +79913971829 2021-01-16 16:07:13,292
+QuickLogin: Start 2021-01-16 16:07:17,428
+QuickLogin: Login success: +79913971829 2021-01-16 16:07:20,634
+NewsFeed: Start 2021-01-16 16:07:23,737
+Navigator: navigate to Home Page: success 2021-01-16 16:07:31,914
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:07:31,916
+BotRunTest: BotCore Error: +79913971829 message object of type 'WebElement' has no len() 2021-01-16 16:07:49,105
+BotRunTest: Start bot: +79913971829 2021-01-16 16:08:22,396
+QuickLogin: Start 2021-01-16 16:08:26,865
+QuickLogin: Login success: +79913971829 2021-01-16 16:08:30,082
+NewsFeed: Start 2021-01-16 16:08:32,164
+Navigator: navigate to Home Page: success 2021-01-16 16:08:38,302
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:08:38,304
+BotRunTest: BotCore Error: +79913971829 message Message: element click intercepted: Element <div aria-label="Like" class="oajrlxb2 gs1a9yip g5ia77u1 mtkw9kbi tlpljxtp qensuy8j ppp5ayq2 goun2846 ccm00jje s44p3ltw mk2mc5f4 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv nhd2j8a9 pq6dq46d mg4g778l btwxx1t3 pfnyh3mw p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x tgvbjcpo hpfvmrgz jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso l9j0dhe7 i1ao9s8h esuyzwwr f1sip0of du4w35lb lzcic4wl abiwlrkh p8dawk7l" role="button" tabindex="0">...</div> is not clickable at point (557, 16). Other element would receive the click: <a aria-label="Friends" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t m7zwrmfr taijpn5t k4urcfbm" href="/friends/" role="link" tabindex="0">...</a>
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:09:06,654
+BotRunTest: Start bot: +79913971829 2021-01-16 16:12:21,705
+QuickLogin: Start 2021-01-16 16:12:26,240
+QuickLogin: Login success: +79913971829 2021-01-16 16:12:30,223
+NewsFeed: Start 2021-01-16 16:12:33,303
+Navigator: navigate to Home Page: success 2021-01-16 16:12:42,461
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:12:42,463
+BotRunTest: BotCore Error: +79913971829 message Message: element click intercepted: Element <div aria-label="Like" class="oajrlxb2 gs1a9yip g5ia77u1 mtkw9kbi tlpljxtp qensuy8j ppp5ayq2 goun2846 ccm00jje s44p3ltw mk2mc5f4 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv nhd2j8a9 pq6dq46d mg4g778l btwxx1t3 pfnyh3mw p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x tgvbjcpo hpfvmrgz jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso l9j0dhe7 i1ao9s8h esuyzwwr f1sip0of du4w35lb lzcic4wl abiwlrkh p8dawk7l" role="button" tabindex="0">...</div> is not clickable at point (557, 16). Other element would receive the click: <a aria-label="Friends" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t m7zwrmfr taijpn5t k4urcfbm" href="/friends/" role="link" tabindex="0">...</a>
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:13:08,831
+BotRunTest: Start bot: +79913971829 2021-01-16 16:15:32,830
+QuickLogin: Start 2021-01-16 16:15:37,289
+QuickLogin: Login success: +79913971829 2021-01-16 16:15:41,703
+NewsFeed: Start 2021-01-16 16:15:44,783
+Navigator: navigate to Home Page: success 2021-01-16 16:15:52,981
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:15:52,983
+BotRunTest: BotCore Error: +79913971829 message Message: javascript error: Failed to execute 'elementsFromPoint' on 'Document': The provided double value is non-finite.
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:16:17,259
+BotRunTest: Start bot: +79913971829 2021-01-16 16:32:15,987
+QuickLogin: Start 2021-01-16 16:32:20,963
+QuickLogin: Login success: +79913971829 2021-01-16 16:32:25,094
+NewsFeed: Start 2021-01-16 16:32:28,197
+Navigator: navigate to Home Page: success 2021-01-16 16:32:37,350
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:32:37,351
+BotRunTest: BotCore Error: +79913971829 message Message: javascript error: Failed to execute 'elementsFromPoint' on 'Document': The provided double value is non-finite.
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:33:10,685
+BotRunTest: Start bot: +79913971829 2021-01-16 16:34:02,012
+QuickLogin: Start 2021-01-16 16:34:06,319
+QuickLogin: Login success: +79913971829 2021-01-16 16:34:10,441
+NewsFeed: Start 2021-01-16 16:34:12,527
+Navigator: navigate to Home Page: success 2021-01-16 16:34:18,672
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:34:18,672
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:34:51,013
+BotRunTest: Start bot: +79913971829 2021-01-16 16:35:41,642
+QuickLogin: Start 2021-01-16 16:35:45,922
+QuickLogin: Login success: +79913971829 2021-01-16 16:35:49,148
+NewsFeed: Start 2021-01-16 16:35:51,238
+Navigator: navigate to Home Page: success 2021-01-16 16:35:57,376
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:35:57,378
+BotRunTest: BotCore Error: +79913971829 message Message: element click intercepted: Element <div aria-label="Like" class="oajrlxb2 bp9cbjyn g5ia77u1 mtkw9kbi tlpljxtp qensuy8j ppp5ayq2 goun2846 ccm00jje s44p3ltw mk2mc5f4 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv nhd2j8a9 j83agx80 mg4g778l btwxx1t3 pfnyh3mw p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x tgvbjcpo hpfvmrgz jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso l9j0dhe7 i1ao9s8h esuyzwwr gokke00a du4w35lb lzcic4wl abiwlrkh p8dawk7l buofh1pr taijpn5t" role="button" tabindex="0">...</div> is not clickable at point (458, 6). Other element would receive the click: <a aria-current="page" aria-label="Home" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t m7zwrmfr taijpn5t k4urcfbm" href="/" role="link" tabindex="0">...</a>
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:36:25,095
+BotRunTest: Start bot: +79913971829 2021-01-16 16:55:22,801
+QuickLogin: Start 2021-01-16 16:55:27,699
+QuickLogin: Login success: +79913971829 2021-01-16 16:55:32,422
+NewsFeed: Start 2021-01-16 16:55:34,509
+Navigator: navigate to Home Page: success 2021-01-16 16:55:41,652
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:55:41,653
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:56:08,232
+BotRunTest: Start bot: +79913971829 2021-01-16 16:57:12,833
+QuickLogin: Start 2021-01-16 16:57:17,437
+QuickLogin: Login success: +79913971829 2021-01-16 16:57:21,293
+NewsFeed: Start 2021-01-16 16:57:24,374
+Navigator: navigate to Home Page: success 2021-01-16 16:57:33,525
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:57:33,526
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 16:58:15,184
+BotRunTest: Start bot: +79913971829 2021-01-16 16:59:03,676
+QuickLogin: Start 2021-01-16 16:59:08,253
+QuickLogin: Login success: +79913971829 2021-01-16 16:59:11,379
+NewsFeed: Start 2021-01-16 16:59:13,456
+Navigator: navigate to Home Page: success 2021-01-16 16:59:23,627
+NewsFeed: Start news feed view: +79913971829 2021-01-16 16:59:23,627
+NewsFeed: Click like: +79913971829 2021-01-16 16:59:59,160
+NewsFeed: Click like: +79913971829 2021-01-16 17:00:16,835
+NewsFeed: News feed view finish: +79913971829 2021-01-16 17:02:11,599
+BotRunTest: Start bot: +79913971829 2021-01-16 17:05:11,119
+QuickLogin: Start 2021-01-16 17:05:15,878
+QuickLogin: Login success: +79913971829 2021-01-16 17:05:19,114
+NewsFeed: Start 2021-01-16 17:05:22,204
+Navigator: navigate to Home Page: success 2021-01-16 17:05:31,362
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:05:31,362
+NewsFeed: News feed view finish: +79913971829 2021-01-16 17:07:06,122
+BotRunTest: Start bot: +79913971829 2021-01-16 17:15:37,895
+QuickLogin: Start 2021-01-16 17:15:43,366
+QuickLogin: Login success: +79913971829 2021-01-16 17:15:46,600
+NewsFeed: Start 2021-01-16 17:15:48,780
+Navigator: navigate to Home Page: success 2021-01-16 17:15:57,921
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:15:57,921
+BotRunTest: BotCore Error: +79913971829 message Message: javascript error: Failed to execute 'elementsFromPoint' on 'Document': The provided double value is non-finite.
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 17:16:27,901
+BotRunTest: Start bot: +79913971829 2021-01-16 17:17:31,806
+QuickLogin: Start 2021-01-16 17:17:37,142
+QuickLogin: Login success: +79913971829 2021-01-16 17:17:40,773
+NewsFeed: Start 2021-01-16 17:17:43,868
+Navigator: navigate to Home Page: success 2021-01-16 17:17:51,015
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:17:51,017
+BotRunTest: BotCore Error: +79913971829 message Message: element click intercepted: Element <div class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t g5gj957u d2edcug0 hpfvmrgz rj1gh0hx buofh1pr n8tt0mok hyh9befq iuny7tx3 ipjc6fyt">...</div> is not clickable at point (557, 19). Other element would receive the click: <a aria-label="Friends" class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 j83agx80 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl l9j0dhe7 abiwlrkh p8dawk7l bp9cbjyn cbu4d94t m7zwrmfr taijpn5t k4urcfbm" href="/friends/" role="link" tabindex="0">...</a>
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 17:18:22,290
+BotRunTest: Start bot: +79913971829 2021-01-16 17:20:06,346
+QuickLogin: Start 2021-01-16 17:20:11,345
+QuickLogin: Login success: +79913971829 2021-01-16 17:20:15,273
+NewsFeed: Start 2021-01-16 17:20:17,753
+Navigator: navigate to Home Page: success 2021-01-16 17:20:28,032
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:20:28,032
+BotRunTest: BotCore Error: +79913971829 message Message: javascript error: Failed to execute 'elementsFromPoint' on 'Document': The provided double value is non-finite.
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-16 17:21:00,865
+BotRunTest: Start bot: +79913971829 2021-01-16 17:24:43,950
+QuickLogin: Start 2021-01-16 17:24:48,378
+QuickLogin: Login success: +79913971829 2021-01-16 17:24:51,608
+NewsFeed: Start 2021-01-16 17:24:54,690
+Navigator: navigate to Home Page: success 2021-01-16 17:25:01,992
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:25:01,994
+BotRunTest: Start bot: +79913971829 2021-01-16 17:26:03,902
+QuickLogin: Start 2021-01-16 17:26:08,836
+QuickLogin: Login success: +79913971829 2021-01-16 17:26:12,321
+NewsFeed: Start 2021-01-16 17:26:15,402
+Navigator: navigate to Home Page: success 2021-01-16 17:26:22,567
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:26:22,569
+BotRunTest: Start bot: +79913971829 2021-01-16 17:28:15,779
+QuickLogin: Start 2021-01-16 17:28:20,440
+QuickLogin: Login success: +79913971829 2021-01-16 17:28:24,074
+NewsFeed: Start 2021-01-16 17:28:26,169
+Navigator: navigate to Home Page: success 2021-01-16 17:28:33,313
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:28:33,313
+BotRunTest: Start bot: +79913971829 2021-01-16 17:32:51,796
+QuickLogin: Start 2021-01-16 17:32:56,864
+QuickLogin: Login success: +79913971829 2021-01-16 17:33:00,619
+NewsFeed: Start 2021-01-16 17:33:03,700
+Navigator: navigate to Home Page: success 2021-01-16 17:33:12,841
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:33:12,841
+NewsFeed: Click like: +79913971829 2021-01-16 17:33:40,518
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101ff3b70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/612ec80428cbdc8d2ce15c30d11c258f/actions 2021-01-16 17:33:40,522
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102166710>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/612ec80428cbdc8d2ce15c30d11c258f/actions 2021-01-16 17:33:40,523
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1021665c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/612ec80428cbdc8d2ce15c30d11c258f/actions 2021-01-16 17:33:40,524
+NewsFeed: Click like: +79913971829 2021-01-16 17:33:40,525
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102166828>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/612ec80428cbdc8d2ce15c30d11c258f/execute/sync 2021-01-16 17:33:42,532
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102166c50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/612ec80428cbdc8d2ce15c30d11c258f/execute/sync 2021-01-16 17:33:42,533
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102166cc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/612ec80428cbdc8d2ce15c30d11c258f/execute/sync 2021-01-16 17:33:42,534
+BotRunTest: BotCore Error: +79913971829 message HTTPConnectionPool(host='127.0.0.1', port=61636): Max retries exceeded with url: /session/612ec80428cbdc8d2ce15c30d11c258f/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102166e48>: Failed to establish a new connection: [Errno 61] Connection refused')) 2021-01-16 17:33:42,537
+BotRunTest: Start bot: +79913971829 2021-01-16 17:33:53,498
+QuickLogin: Start 2021-01-16 17:33:58,194
+QuickLogin: Login success: +79913971829 2021-01-16 17:34:01,446
+NewsFeed: Start 2021-01-16 17:34:04,534
+Navigator: navigate to Home Page: success 2021-01-16 17:34:11,686
+NewsFeed: Start news feed view: +79913971829 2021-01-16 17:34:11,687
+NewsFeed: Click like: +79913971829 2021-01-16 17:34:47,157
+NewsFeed: Click like: +79913971829 2021-01-16 17:35:05,977
+BotRunTest: Start bot: +79913971829 2021-01-20 12:45:38,352
+BotRun: Start bot: +79919096756 2021-01-20 12:45:48,138
+Login: Start 2021-01-20 12:45:51,269
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-20 12:45:52,651
+BotRun: Start bot: +79919096756 2021-01-20 12:47:24,437
+Login: Start 2021-01-20 12:47:27,055
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-20 12:47:28,966
+BotRun: Core Critical Error: +79919096756 message ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) 2021-01-20 12:47:30,523
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108c7ff28>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e265fd995c09fe38dbcc426df8e964d7/screenshot 2021-01-20 12:47:30,526
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108c7fe10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e265fd995c09fe38dbcc426df8e964d7/screenshot 2021-01-20 12:47:30,528
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108d23080>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e265fd995c09fe38dbcc426df8e964d7/screenshot 2021-01-20 12:47:30,530
+BotRun: Start bot: +79919096756 2021-01-20 12:48:43,546
+Login: Start 2021-01-20 12:48:46,239
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-20 12:48:48,059
+BotRun: Core Critical Error: +79919096756 message ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) 2021-01-20 12:48:49,846
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1039a9f60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/68a3a221723abe7104b6a9a6b8276f99/screenshot 2021-01-20 12:48:49,847
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1039a9e10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/68a3a221723abe7104b6a9a6b8276f99/screenshot 2021-01-20 12:48:49,848
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103a15080>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/68a3a221723abe7104b6a9a6b8276f99/screenshot 2021-01-20 12:48:49,850
+BotRun: Start bot: +79919096756 2021-01-20 12:49:04,506
+Login: Start 2021-01-20 12:49:07,390
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-20 12:49:09,084
+BotRun: Core Critical Error: +79919096756 message ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) 2021-01-20 12:49:12,743
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10fafeeb8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/359c55bd31661990533bfa0a6deb0432/screenshot 2021-01-20 12:49:12,745
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10fafee80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/359c55bd31661990533bfa0a6deb0432/screenshot 2021-01-20 12:49:12,746
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10fafe828>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/359c55bd31661990533bfa0a6deb0432/screenshot 2021-01-20 12:49:12,748
+BotRun: Start bot: +79919096756 2021-01-20 12:50:34,292
+Login: Start 2021-01-20 12:50:37,111
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-20 12:50:38,824
+BotRun: Core Critical Error: +79919096756 message ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) 2021-01-20 12:50:40,370
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106e82eb8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/60eba0ff7a86a08c77c045031abd0339/screenshot 2021-01-20 12:50:40,373
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106e82ef0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/60eba0ff7a86a08c77c045031abd0339/screenshot 2021-01-20 12:50:40,375
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106e82f98>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/60eba0ff7a86a08c77c045031abd0339/screenshot 2021-01-20 12:50:40,376
+BotRun: Start bot: +79919096756 2021-01-20 12:51:40,386
+Login: Start 2021-01-20 12:51:43,056
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-20 12:51:44,902
+BotRun: Core Critical Error: +79919096756 message ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) 2021-01-20 12:51:46,287
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1121bafd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4c9a20410ffb69f5b805747ba7a3fbd3/screenshot 2021-01-20 12:51:46,289
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1122610f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4c9a20410ffb69f5b805747ba7a3fbd3/screenshot 2021-01-20 12:51:46,290
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1122611d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4c9a20410ffb69f5b805747ba7a3fbd3/screenshot 2021-01-20 12:51:46,291
+BotRun: Start bot: 79313309817 2021-01-20 12:52:45,217
+BotRun: Core Critical Error: 79313309817 message 'NoneType' object is not subscriptable 2021-01-20 12:52:47,893
+BotRun: Start bot: 79313309817 2021-01-20 12:53:35,731
+BotRun: Core Critical Error: 79313309817 message 'NoneType' object is not subscriptable 2021-01-20 12:53:38,669
+BotRun: Start bot: 79313309817 2021-01-20 13:28:16,474
+BotRun: Start Browser Filed: 79313309817 message Message: Service chromedriver unexpectedly exited. Status code was: -2
+ 2021-01-20 13:28:17,503
+BotRun: Start bot: 79313309817 2021-01-20 13:28:57,703
+BotRun: Core Critical Error: 79313309817 message 'NoneType' object is not subscriptable 2021-01-20 13:29:00,535
+BotRun: Start bot: +79919096756 2021-01-22 21:19:17,456
+Login: Start 2021-01-22 21:19:21,271
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-22 21:19:21,885
+Navigator: navigate to Home Page: success 2021-01-22 21:19:37,163
+Navigator: navigate to Home Page: success 2021-01-22 21:19:40,324
+Login: Login success: +79919096756 2021-01-22 21:19:40,326
+NewsFeed: Start 2021-01-22 21:19:43,301
+Navigator: navigate to Home Page: success 2021-01-22 21:19:46,471
+NewsFeed: Start news feed view: +79919096756 2021-01-22 21:19:46,472
+NewsFeed: Click like: +79919096756 2021-01-22 21:20:12,393
+NewsFeed: News feed view finish: +79919096756 2021-01-22 21:20:16,415
+FollowPage: Start 2021-01-22 21:20:19,995
+BotRun: Core Critical Error: +79919096756 message Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@aria-label,'Close chat')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-22 21:20:24,253
+BotRunTest: start bot failed, SQL error: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host "172.31.47.27" and accepting
+	TCP/IP connections on port 5432?
+ 2021-01-23 17:15:53,404
+BotRunTest: Start bot: +79913971829 2021-01-23 17:16:44,346
+QuickLogin: Start 2021-01-23 17:16:53,937
+QuickLogin: Login success: +79913971829 2021-01-23 17:16:59,001
+NewsFeed: Start 2021-01-23 17:17:00,101
+Navigator: navigate to Home Page: success 2021-01-23 17:17:03,281
+NewsFeed: Start news feed view: +79913971829 2021-01-23 17:17:03,281
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:17:49,370
+BotRun: Start bot: +79913971829 2021-01-23 17:17:49,970
+Login: Start 2021-01-23 17:17:55,426
+Navigator: navigate to Home Page: success 2021-01-23 17:18:08,665
+Navigator: navigate to Home Page: success 2021-01-23 17:18:11,733
+Login: Login success: +79913971829 2021-01-23 17:18:11,733
+BotRun: Core Critical Error: +79913971829 message 'BotSql' object has no attribute 'delete_bot_track' 2021-01-23 17:18:14,405
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:18:49,097
+BotRun: Start bot: +79913971829 2021-01-23 17:18:49,662
+Login: Start 2021-01-23 17:18:55,080
+Navigator: navigate to Home Page: success 2021-01-23 17:19:08,141
+Navigator: navigate to Home Page: success 2021-01-23 17:19:11,206
+Login: Login success: +79913971829 2021-01-23 17:19:11,206
+BotRun: Core Critical Error: +79913971829 message can't adapt type 'set' 2021-01-23 17:19:13,092
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:21:58,085
+BotRun: Start bot: +79913971829 2021-01-23 17:21:58,630
+Login: Start 2021-01-23 17:22:04,019
+Navigator: navigate to Home Page: success 2021-01-23 17:22:17,090
+Navigator: navigate to Home Page: success 2021-01-23 17:22:20,142
+Login: Login success: +79913971829 2021-01-23 17:22:20,142
+BotRun: Core Critical Error: +79913971829 message invalid input syntax for integer: "login"
+LINE 1: ...ot_id, track, date) VALUES ('+79913971829', ARRAY['login',0,...
+                                                             ^
+ 2021-01-23 17:22:22,194
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:22:44,991
+BotRun: Start bot: +79913971829 2021-01-23 17:22:45,507
+Login: Start 2021-01-23 17:22:50,938
+Navigator: navigate to Home Page: success 2021-01-23 17:23:04,072
+Navigator: navigate to Home Page: success 2021-01-23 17:23:07,130
+Login: Login success: +79913971829 2021-01-23 17:23:07,130
+BotRun: Core Critical Error: +79913971829 message invalid input syntax for integer: "login"
+LINE 1: ... track, date) VALUES ('+79913971829', ARRAY[ARRAY['login',0,...
+                                                             ^
+ 2021-01-23 17:23:09,206
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:24:12,450
+BotRun: Start bot: +79913971829 2021-01-23 17:24:12,992
+Login: Start 2021-01-23 17:24:18,373
+Navigator: navigate to Home Page: success 2021-01-23 17:24:31,435
+Navigator: navigate to Home Page: success 2021-01-23 17:24:34,496
+Login: Login success: +79913971829 2021-01-23 17:24:34,496
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:34:40,623
+BotRun: Start bot: +79913971829 2021-01-23 17:34:41,179
+Login: Start 2021-01-23 17:34:46,605
+Navigator: navigate to Home Page: success 2021-01-23 17:35:00,618
+Navigator: navigate to Home Page: success 2021-01-23 17:35:03,686
+Login: Login success: +79913971829 2021-01-23 17:35:03,686
+BotRun: Core Critical Error: +79913971829 message syntax error at or near "news_feed"
+LINE 1: update tracks set track = track || '['news_feed', '16.666666...
+                                              ^
+ 2021-01-23 17:35:05,795
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:36:50,457
+BotRun: Start bot: +79913971829 2021-01-23 17:36:51,025
+Login: Start 2021-01-23 17:36:56,453
+Navigator: navigate to Home Page: success 2021-01-23 17:37:09,675
+Navigator: navigate to Home Page: success 2021-01-23 17:37:12,742
+Login: Login success: +79913971829 2021-01-23 17:37:12,742
+BotRun: Core Critical Error: +79913971829 message syntax error at or near "news_feed"
+LINE 1: update tracks set track = track || '[['news_feed', '7.692307...
+                                               ^
+ 2021-01-23 17:37:15,083
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:37:40,650
+BotRun: Start bot: +79913971829 2021-01-23 17:37:41,204
+Login: Start 2021-01-23 17:37:46,603
+Navigator: navigate to Home Page: success 2021-01-23 17:37:59,730
+Navigator: navigate to Home Page: success 2021-01-23 17:38:02,791
+Login: Login success: +79913971829 2021-01-23 17:38:02,791
+BotRun: Core Critical Error: +79913971829 message syntax error at or near "["
+LINE 1: update tracks set track = track || [['news_feed', '33.333333...
+                                           ^
+ 2021-01-23 17:38:05,190
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:42:00,417
+BotRun: Start bot: +79913971829 2021-01-23 17:42:01,059
+Login: Start 2021-01-23 17:42:06,484
+Navigator: navigate to Home Page: success 2021-01-23 17:42:20,133
+Navigator: navigate to Home Page: success 2021-01-23 17:42:23,201
+Login: Login success: +79913971829 2021-01-23 17:42:23,201
+BotRun: Core Critical Error: +79913971829 message syntax error at or near "["
+LINE 1: update tracks set track = array_append(track, ['news_feed', ...
+                                                      ^
+ 2021-01-23 17:42:25,378
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:56:22,786
+BotRun: Start bot: +79913971829 2021-01-23 17:56:23,322
+Login: Start 2021-01-23 17:56:28,739
+Navigator: navigate to Home Page: success 2021-01-23 17:56:41,772
+Navigator: navigate to Home Page: success 2021-01-23 17:56:44,851
+Login: Login success: +79913971829 2021-01-23 17:56:44,851
+BotRun: Core Critical Error: +79913971829 message not all arguments converted during string formatting 2021-01-23 17:56:46,880
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:57:26,876
+BotRun: Start bot: +79913971829 2021-01-23 17:57:27,479
+Login: Start 2021-01-23 17:57:32,870
+Navigator: navigate to Home Page: success 2021-01-23 17:57:46,022
+Navigator: navigate to Home Page: success 2021-01-23 17:57:49,096
+Login: Login success: +79913971829 2021-01-23 17:57:49,096
+BotRun: Core Critical Error: +79913971829 message function array_append(text[], text[]) does not exist
+LINE 1: update tracks set track = array_append(track, ARRAY['news_fe...
+                                  ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+ 2021-01-23 17:57:51,370
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 17:58:58,742
+BotRun: Start bot: +79913971829 2021-01-23 17:58:59,254
+Login: Start 2021-01-23 17:59:04,748
+Navigator: navigate to Home Page: success 2021-01-23 17:59:19,094
+Navigator: navigate to Home Page: success 2021-01-23 17:59:22,155
+Login: Login success: +79913971829 2021-01-23 17:59:22,155
+BotRun: Core Critical Error: +79913971829 message function array_append(text[], text[]) does not exist
+LINE 1: update tracks set track = array_append(track, ARRAY[ARRAY['n...
+                                  ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+ 2021-01-23 17:59:24,336
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 18:00:32,609
+BotRun: Start bot: +79913971829 2021-01-23 18:00:33,184
+Login: Start 2021-01-23 18:00:38,655
+Navigator: navigate to Home Page: success 2021-01-23 18:00:51,809
+Navigator: navigate to Home Page: success 2021-01-23 18:00:54,873
+Login: Login success: +79913971829 2021-01-23 18:00:54,873
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 18:05:47,080
+BotRun: Start bot: +79913971829 2021-01-23 18:05:47,674
+Login: Start 2021-01-23 18:05:53,005
+Navigator: navigate to Home Page: success 2021-01-23 18:06:06,663
+Navigator: navigate to Home Page: success 2021-01-23 18:06:09,725
+Login: Login success: +79913971829 2021-01-23 18:06:09,725
+NewsFeed: Start 2021-01-23 18:06:12,529
+Navigator: navigate to Home Page: success 2021-01-23 18:06:15,612
+NewsFeed: Start news feed view: +79913971829 2021-01-23 18:06:15,612
+NewsFeed: News feed view finish: +79913971829 2021-01-23 18:06:29,834
+NewsFeed: Start 2021-01-23 18:06:31,394
+Navigator: navigate to Home Page: success 2021-01-23 18:06:34,497
+NewsFeed: Start news feed view: +79913971829 2021-01-23 18:06:34,497
+NewsFeed: News feed view finish: +79913971829 2021-01-23 18:06:48,902
+NewsFeed: Start 2021-01-23 18:06:51,382
+Navigator: navigate to Home Page: success 2021-01-23 18:06:54,462
+NewsFeed: Start news feed view: +79913971829 2021-01-23 18:06:54,462
+NewsFeed: News feed view finish: +79913971829 2021-01-23 18:07:09,047
+NewsFeed: Start 2021-01-23 18:07:10,594
+Navigator: navigate to Home Page: success 2021-01-23 18:07:13,721
+NewsFeed: Start news feed view: +79913971829 2021-01-23 18:07:13,721
+NewsFeed: Click like: +79913971829 2021-01-23 18:07:24,571
+NewsFeed: News feed view finish: +79913971829 2021-01-23 18:07:28,610
+JoinGroup: Start 2021-01-23 18:07:30,488
+JoinGroup: Start saving to database: +79913971829 error status: False, group name: Kleine Hunde von privat und aus dem Tierschutz  2021-01-23 18:07:40,889
+JoinGroup: Finish: +79913971829 2021-01-23 18:07:42,472
+GroupsShare: Start 2021-01-23 18:07:43,847
+BotRun: Core Critical Error: +79913971829 message Cannot choose from an empty sequence 2021-01-23 18:07:45,657
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 18:57:26,267
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 18:57:41,494
+BotRun: Start bot: +79913971829 2021-01-23 18:57:42,026
+Login: Start 2021-01-23 18:57:47,426
+Navigator: navigate to Home Page: success 2021-01-23 18:58:01,953
+Navigator: navigate to Home Page: success 2021-01-23 18:58:05,057
+Login: Login success: +79913971829 2021-01-23 18:58:05,057
+GroupsShare: Start 2021-01-23 18:58:07,933
+BotRun: Core Critical Error: +79913971829 message Cannot choose from an empty sequence 2021-01-23 18:58:09,901
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) 2021-01-23 19:15:48,679
+BotRun: Start bot: +79913971829 2021-01-23 19:15:49,181
+Login: Start 2021-01-23 19:15:54,540
+BotRunTest: Start bot: +79913971829 2021-01-25 15:12:18,557
+QuickLogin: Start 2021-01-25 15:12:24,674
+QuickLogin: Login success: +79913971829 2021-01-25 15:12:31,701
+GroupsShare: Start 2021-01-25 15:12:32,791
+BotRunTest: BotCore Error: +79913971829 message 'bool' object has no attribute 'split' 2021-01-25 15:12:34,750
+BotRunTest: Start bot: +79913971829 2021-01-25 15:14:09,590
+QuickLogin: Start 2021-01-25 15:14:18,733
+QuickLogin: Login success: +79913971829 2021-01-25 15:14:21,910
+GroupsShare: Start 2021-01-25 15:14:23,005
+BotRunTest: BotCore Error: +79913971829 message 'bool' object has no attribute 'split' 2021-01-25 15:14:24,518
+BotRunTest: Start bot: +79913971829 2021-01-25 15:14:57,851
+QuickLogin: Start 2021-01-25 15:15:03,625
+QuickLogin: Login success: +79913971829 2021-01-25 15:15:08,230
+GroupsShare: Start 2021-01-25 15:15:09,322
+BotRunTest: BotCore Error: +79913971829 message 'bool' object has no attribute 'split' 2021-01-25 15:15:10,870
+BotRunTest: Start bot: +79913971829 2021-01-25 15:15:55,868
+QuickLogin: Start 2021-01-25 15:16:01,715
+QuickLogin: Login success: +79913971829 2021-01-25 15:16:06,519
+GroupsShare: Start 2021-01-25 15:16:07,633
+BotRunTest: BotCore Error: +79913971829 message 'int' object is not subscriptable 2021-01-25 15:16:09,059
+BotRunTest: Start bot: +79913971829 2021-01-25 15:17:49,993
+QuickLogin: Start 2021-01-25 15:17:55,729
+QuickLogin: Login success: +79913971829 2021-01-25 15:18:00,826
+GroupsShare: Start 2021-01-25 15:18:01,909
+BotRunTest: BotCore Error: +79913971829 message 'int' object is not subscriptable 2021-01-25 15:18:03,586
+BotRunTest: Start bot: +79913971829 2021-01-25 15:21:31,855
+QuickLogin: Start 2021-01-25 15:21:37,726
+QuickLogin: Login success: +79913971829 2021-01-25 15:21:42,351
+GroupsShare: Start 2021-01-25 15:21:43,429
+BotRunTest: Start bot: +79913971829 2021-01-25 15:23:22,709
+QuickLogin: Start 2021-01-25 15:23:28,624
+QuickLogin: Login success: +79913971829 2021-01-25 15:23:33,288
+GroupsShare: Start 2021-01-25 15:23:34,370
+Navigator: navigate to Groups Page: success 2021-01-25 15:23:38,958
+BotRunTest: Start bot: +79913971829 2021-01-25 15:26:45,496
+QuickLogin: Start 2021-01-25 15:26:51,298
+QuickLogin: Login success: +79913971829 2021-01-25 15:26:56,523
+GroupsShare: Start 2021-01-25 15:26:57,619
+Navigator: navigate to Groups Page: success 2021-01-25 15:27:02,598
+BotRunTest: Start bot: +79913971829 2021-01-25 15:28:05,757
+QuickLogin: Start 2021-01-25 15:28:11,518
+QuickLogin: Login success: +79913971829 2021-01-25 15:28:16,877
+GroupsShare: Start 2021-01-25 15:28:17,963
+Navigator: navigate to Groups Page: success 2021-01-25 15:28:22,861
+BotRunTest: Start bot: +79913971829 2021-01-25 15:33:32,128
+QuickLogin: Start 2021-01-25 15:33:37,874
+QuickLogin: Login success: +79913971829 2021-01-25 15:33:42,887
+GroupsShare: Start 2021-01-25 15:33:43,985
+Navigator: navigate to Groups Page: success 2021-01-25 15:33:48,890
+BotRunTest: Start bot: +79913971829 2021-01-25 15:39:57,231
+QuickLogin: Start 2021-01-25 15:40:06,391
+QuickLogin: Login success: +79913971829 2021-01-25 15:40:10,216
+GroupsShare: Start 2021-01-25 15:40:11,305
+Navigator: navigate to Groups Page: success 2021-01-25 15:40:16,401
+BotRunTest: Start bot: +79913971829 2021-01-25 15:41:34,175
+QuickLogin: Start 2021-01-25 15:41:43,284
+QuickLogin: Login success: +79913971829 2021-01-25 15:41:47,427
+GroupsShare: Start 2021-01-25 15:41:48,530
+Navigator: navigate to Groups Page: success 2021-01-25 15:41:53,558
+BotRunTest: Start bot: +79913971829 2021-01-25 15:42:39,545
+QuickLogin: Start 2021-01-25 15:42:45,411
+QuickLogin: Login success: +79913971829 2021-01-25 15:42:50,924
+GroupsShare: Start 2021-01-25 15:42:52,042
+Navigator: navigate to Groups Page: success 2021-01-25 15:42:56,864
+BotRunTest: BotCore Error: +79913971829 message 'list' object has no attribute 'get_attribute' 2021-01-25 15:43:09,364
+BotRunTest: Start bot: +79913971829 2021-01-25 15:44:05,847
+QuickLogin: Start 2021-01-25 15:44:14,985
+QuickLogin: Login success: +79913971829 2021-01-25 15:44:18,937
+GroupsShare: Start 2021-01-25 15:44:20,028
+Navigator: navigate to Groups Page: success 2021-01-25 15:44:25,051
+BotRunTest: Start bot: +79913971829 2021-01-25 15:48:46,469
+QuickLogin: Start 2021-01-25 15:48:52,219
+QuickLogin: Login success: +79913971829 2021-01-25 15:48:57,691
+GroupsShare: Start 2021-01-25 15:48:58,789
+Navigator: navigate to Groups Page: success 2021-01-25 15:49:03,533
+BotRunTest: Start bot: +79913971829 2021-01-25 15:50:25,649
+QuickLogin: Start 2021-01-25 15:50:34,833
+QuickLogin: Login success: +79913971829 2021-01-25 15:50:37,698
+GroupsShare: Start 2021-01-25 15:50:38,779
+Navigator: navigate to Groups Page: success 2021-01-25 15:50:43,821
+BotRunTest: Start bot: +79913971829 2021-01-25 15:54:25,801
+QuickLogin: Start 2021-01-25 15:54:31,563
+QuickLogin: Login success: +79913971829 2021-01-25 15:54:37,211
+GroupsShare: Start 2021-01-25 15:54:38,293
+Navigator: navigate to Groups Page: success 2021-01-25 15:54:43,378
+BotRunTest: Start bot: +79913971829 2021-01-25 16:01:17,479
+QuickLogin: Start 2021-01-25 16:01:27,497
+QuickLogin: Login success: +79913971829 2021-01-25 16:01:31,826
+GroupsShare: Start 2021-01-25 16:01:32,917
+Navigator: navigate to Groups Page: success 2021-01-25 16:01:38,061
+BotRunTest: Start bot: +79913971829 2021-01-25 16:07:06,585
+QuickLogin: Start 2021-01-25 16:07:15,710
+QuickLogin: Login success: +79913971829 2021-01-25 16:07:18,772
+GroupsShare: Start 2021-01-25 16:07:19,857
+Navigator: navigate to Groups Page: success 2021-01-25 16:07:24,805
+BotRunTest: BotCore Error: +79913971829 message 'list' object has no attribute 'click' 2021-01-25 16:07:49,001
+BotRunTest: Start bot: +79913971829 2021-01-25 16:08:26,607
+QuickLogin: Start 2021-01-25 16:08:32,467
+QuickLogin: Login success: +79913971829 2021-01-25 16:08:37,495
+GroupsShare: Start 2021-01-25 16:08:38,575
+Navigator: navigate to Groups Page: success 2021-01-25 16:08:43,506
+BotRunTest: BotCore Error: +79913971829 message Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='Close chat']"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-25 16:09:03,858
+BotRunTest: Start bot: +79913971829 2021-01-25 16:12:06,623
+QuickLogin: Start 2021-01-25 16:12:15,470
+QuickLogin: Login success: +79913971829 2021-01-25 16:12:18,436
+GroupsShare: Start 2021-01-25 16:12:19,532
+Navigator: navigate to Groups Page: success 2021-01-25 16:12:24,444
+BotRunTest: Start bot: +79913971829 2021-01-25 16:15:50,731
+QuickLogin: Start 2021-01-25 16:15:56,545
+QuickLogin: Login success: +79913971829 2021-01-25 16:16:01,165
+GroupsShare: Start 2021-01-25 16:16:02,235
+Navigator: navigate to Groups Page: success 2021-01-25 16:16:07,176
+BotRunTest: Start bot: +79913971829 2021-01-25 16:28:19,474
+QuickLogin: Start 2021-01-25 16:28:25,191
+QuickLogin: Login success: +79913971829 2021-01-25 16:28:30,527
+GroupsShare: Start 2021-01-25 16:28:31,615
+Navigator: navigate to Groups Page: success 2021-01-25 16:28:36,605
+BotRunTest: Start bot: +79913971829 2021-01-25 16:41:38,551
+QuickLogin: Start 2021-01-25 16:41:44,344
+QuickLogin: Login success: +79913971829 2021-01-25 16:41:49,344
+GroupsShare: Start 2021-01-25 16:41:50,428
+Navigator: navigate to Groups Page: success 2021-01-25 16:41:55,473
+BotRunTest: Start bot: +79913971829 2021-01-25 16:50:45,002
+QuickLogin: Start 2021-01-25 16:50:50,778
+QuickLogin: Login success: +79913971829 2021-01-25 16:50:56,503
+GroupsShare: Start 2021-01-25 16:50:57,597
+Navigator: navigate to Groups Page: success 2021-01-25 16:51:02,704
+BotRunTest: BotCore Error: +79913971829 message syntax error at or near "="
+LINE 1: update campaigns_scraped_posts set (shared_bots = array_cat(...
+                                                        ^
+ 2021-01-25 16:51:41,743
+BotRunTest: Start bot: +79913971829 2021-01-25 16:58:28,648
+QuickLogin: Start 2021-01-25 16:58:34,439
+QuickLogin: Login success: +79913971829 2021-01-25 16:58:39,053
+GroupsShare: Start 2021-01-25 16:58:40,131
+Navigator: navigate to Groups Page: success 2021-01-25 16:58:45,155
+GroupsShare: Share post done: +79913971829 2021-01-25 16:59:30,219
+BotRunTest: Start bot: +79913971829 2021-01-25 17:37:20,700
+QuickLogin: Start 2021-01-25 17:37:29,917
+QuickLogin: Login success: +79913971829 2021-01-25 17:37:33,337
+GroupsShare: Start 2021-01-25 17:37:34,439
+Navigator: navigate to Groups Page: success 2021-01-25 17:37:39,016
+BotRunTest: Start bot: +79913971829 2021-01-25 18:03:39,404
+QuickLogin: Start 2021-01-25 18:03:48,528
+QuickLogin: Login success: +79913971829 2021-01-25 18:03:52,244
+GroupsShare: Start 2021-01-25 18:03:53,331
+Navigator: navigate to Groups Page: success 2021-01-25 18:03:58,370
+BotRunTest: BotCore Error: +79913971829 message syntax error at or near "LIMIT"
+LINE 2: ...,    haha test @ #' = ANY(shared_text) AND id = 1 ; LIMIT 1;
+                                                               ^
+ 2021-01-25 18:04:28,527
+BotRunTest: Start bot: +79913971829 2021-01-25 18:05:08,387
+QuickLogin: Start 2021-01-25 18:05:17,561
+QuickLogin: Login success: +79913971829 2021-01-25 18:05:20,534
+GroupsShare: Start 2021-01-25 18:05:21,638
+Navigator: navigate to Groups Page: success 2021-01-25 18:05:26,185
+GroupsShare: Share post done: +79913971829 2021-01-25 18:06:03,999
+BotRunTest: Start bot: +79913971829 2021-01-25 18:07:01,940
+QuickLogin: Start 2021-01-25 18:07:11,068
+QuickLogin: Login success: +79913971829 2021-01-25 18:07:13,662
+GroupsShare: Start 2021-01-25 18:07:14,755
+Navigator: navigate to Groups Page: success 2021-01-25 18:07:19,444
+BotRunTest: Start bot: +79913971829 2021-01-25 18:09:25,658
+QuickLogin: Start 2021-01-25 18:09:34,755
+QuickLogin: Login success: +79913971829 2021-01-25 18:09:38,062
+GroupsShare: Start 2021-01-25 18:09:39,143
+Navigator: navigate to Groups Page: success 2021-01-25 18:09:44,061
+BotRunTest: Start bot: +79913971829 2021-01-25 18:10:39,558
+QuickLogin: Start 2021-01-25 18:10:48,740
+QuickLogin: Login success: +79913971829 2021-01-25 18:10:52,088
+GroupsShare: Start 2021-01-25 18:10:53,191
+Navigator: navigate to Groups Page: success 2021-01-25 18:10:58,236
+BotRunTest: Start bot: +79913971829 2021-01-25 18:14:05,245
+QuickLogin: Start 2021-01-25 18:14:14,406
+QuickLogin: Login success: +79913971829 2021-01-25 18:14:17,009
+GroupsShare: Start 2021-01-25 18:14:18,092
+Navigator: navigate to Groups Page: success 2021-01-25 18:14:22,649
+BotRunTest: BotCore Error: +79913971829 message malformed array literal: "{this is captino 1!!,,,    haha test @ #}"
+LINE 2:         shared_text = array_cat(shared_text, '{this is capti...
+                                                     ^
+DETAIL:  Unexpected "," character.
+ 2021-01-25 18:15:47,951
+BotRunTest: Start bot: +79913971829 2021-01-25 18:20:01,367
+QuickLogin: Start 2021-01-25 18:20:12,232
+QuickLogin: Login success: +79913971829 2021-01-25 18:20:18,865
+GroupsShare: Start 2021-01-25 18:20:19,950
+Navigator: navigate to Groups Page: success 2021-01-25 18:20:24,590
+BotRunTest: BotCore Error: +79913971829 message malformed array literal: "{this is captino 1!!,,,    haha test @ #}"
+LINE 2:         shared_text = array_cat(shared_text, '{this is capti...
+                                                     ^
+DETAIL:  Unexpected "," character.
+ 2021-01-25 18:22:09,819
+BotRunTest: Start bot: +79913971829 2021-01-25 18:27:37,570
+QuickLogin: Start 2021-01-25 18:27:49,073
+QuickLogin: Login success: +79913971829 2021-01-25 18:28:11,539
+GroupsShare: Start 2021-01-25 18:28:12,645
+Navigator: navigate to Groups Page: success 2021-01-25 18:28:17,482
+BotRunTest: BotCore Error: +79913971829 message malformed array literal: "this is captino 1!!,,,    haha test @ #"
+LINE 2:         (not 'this is captino 1!!,,,    haha test @ #'::text...
+                     ^
+DETAIL:  Array value must start with "{" or dimension information.
+ 2021-01-25 18:29:17,651
+BotRunTest: Start bot: +79913971829 2021-01-25 18:31:25,194
+QuickLogin: Start 2021-01-25 18:31:34,752
+QuickLogin: Login success: +79913971829 2021-01-25 18:31:40,235
+GroupsShare: Start 2021-01-25 18:31:41,323
+Navigator: navigate to Groups Page: success 2021-01-25 18:31:46,298
+BotRunTest: BotCore Error: +79913971829 message malformed array literal: "{this is captino 1!!,,,    haha test @ #}"
+LINE 2:         (not '{this is captino 1!!,,,    haha test @ #}'::te...
+                     ^
+DETAIL:  Unexpected "," character.
+ 2021-01-25 18:32:38,896
+BotRunTest: Start bot: +79913971829 2021-01-25 18:41:16,091
+QuickLogin: Start 2021-01-25 18:41:27,984
+QuickLogin: Login success: +79913971829 2021-01-25 18:41:33,605
+GroupsShare: Start 2021-01-25 18:41:34,686
+Navigator: navigate to Groups Page: success 2021-01-25 18:41:39,309
+BotRunTest: BotCore Error: +79913971829 message argument of type 'NoneType' is not iterable 2021-01-25 18:42:12,999
+BotRunTest: Start bot: +79913971829 2021-01-25 18:43:05,841
+QuickLogin: Start 2021-01-25 18:43:15,856
+QuickLogin: Login success: +79913971829 2021-01-25 18:43:19,095
+GroupsShare: Start 2021-01-25 18:43:20,172
+Navigator: navigate to Groups Page: success 2021-01-25 18:43:24,817
+BotRunTest: Start bot: +79913971829 2021-01-25 18:46:47,887
+QuickLogin: Start 2021-01-25 18:46:57,604
+QuickLogin: Login success: +79913971829 2021-01-25 18:47:01,084
+GroupsShare: Start 2021-01-25 18:47:02,181
+Navigator: navigate to Groups Page: success 2021-01-25 18:47:06,890
+BotRunTest: Start bot: +79913971829 2021-01-25 18:49:37,944
+QuickLogin: Start 2021-01-25 18:49:48,000
+QuickLogin: Login success: +79913971829 2021-01-25 18:50:03,439
+GroupsShare: Start 2021-01-25 18:50:04,531
+Navigator: navigate to Groups Page: success 2021-01-25 18:50:09,361
+BotRunTest: Start bot: +79913971829 2021-01-25 18:52:25,667
+QuickLogin: Start 2021-01-25 18:52:39,227
+QuickLogin: Login success: +79913971829 2021-01-25 18:52:48,357
+GroupsShare: Start 2021-01-25 18:52:49,470
+Navigator: navigate to Groups Page: success 2021-01-25 18:52:54,861
+BotRunTest: Start bot: +79913971829 2021-01-25 18:56:38,390
+QuickLogin: Start 2021-01-25 18:56:47,698
+QuickLogin: Login success: +79913971829 2021-01-25 18:56:53,237
+GroupsShare: Start 2021-01-25 18:56:54,322
+Navigator: navigate to Groups Page: success 2021-01-25 18:56:59,042
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-25 18:57:48,834
+BotRunTest: Start bot: +79913971829 2021-01-25 18:59:26,167
+QuickLogin: Start 2021-01-25 18:59:38,968
+QuickLogin: Login success: +79913971829 2021-01-25 19:00:12,439
+GroupsShare: Start 2021-01-25 19:00:13,535
+Navigator: navigate to Groups Page: success 2021-01-25 19:00:18,965
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-25 19:01:25,050
+BotRunTest: Start bot: +79913971829 2021-01-25 19:01:42,763
+QuickLogin: Start 2021-01-25 19:01:53,472
+QuickLogin: Login success: +79913971829 2021-01-25 19:02:01,745
+GroupsShare: Start 2021-01-25 19:02:02,836
+Navigator: navigate to Groups Page: success 2021-01-25 19:02:07,887
+BotRunTest: BotCore Error: +79913971829 message Message: element not interactable
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-25 19:03:04,895
+BotRunTest: Start bot: +79913971829 2021-01-25 19:05:18,215
+QuickLogin: Start 2021-01-25 19:05:27,561
+QuickLogin: Login success: +79913971829 2021-01-25 19:05:31,544
+GroupsShare: Start 2021-01-25 19:05:32,628
+Navigator: navigate to Groups Page: success 2021-01-25 19:05:37,953
+BotRunTest: Start bot: +79913971829 2021-01-25 19:11:38,812
+QuickLogin: Start 2021-01-25 19:11:48,090
+QuickLogin: Login success: +79913971829 2021-01-25 19:11:51,347
+GroupsShare: Start 2021-01-25 19:11:52,441
+Navigator: navigate to Groups Page: success 2021-01-25 19:11:56,984
+BotRunTest: Start bot: +79913971829 2021-01-25 19:15:15,343
+QuickLogin: Start 2021-01-25 19:15:24,466
+QuickLogin: Login success: +79913971829 2021-01-25 19:15:27,289
+GroupsShare: Start 2021-01-25 19:15:28,482
+Navigator: navigate to Groups Page: success 2021-01-25 19:15:33,720
+BotRunTest: Start bot: +79913971829 2021-01-25 19:17:32,620
+QuickLogin: Start 2021-01-25 19:17:42,043
+QuickLogin: Login success: +79913971829 2021-01-25 19:17:50,794
+GroupsShare: Start 2021-01-25 19:17:51,881
+Navigator: navigate to Groups Page: success 2021-01-25 19:17:56,805
+BotRunTest: Start bot: +79913971829 2021-01-25 19:19:48,416
+QuickLogin: Start 2021-01-25 19:19:54,128
+QuickLogin: Login success: +79913971829 2021-01-25 19:20:00,776
+GroupsShare: Start 2021-01-25 19:20:01,856
+Navigator: navigate to Groups Page: success 2021-01-25 19:20:06,934
+BotRunTest: BotCore Error: +79913971829 message Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@aria-describedby, 'placeholder')]"}
+  (Session info: chrome=87.0.4280.141)
+ 2021-01-25 19:21:11,750
+BotRunTest: Start bot: +79913971829 2021-01-25 19:24:19,122
+QuickLogin: Start 2021-01-25 19:24:24,873
+QuickLogin: Login success: +79913971829 2021-01-25 19:24:30,243
+GroupsShare: Start 2021-01-25 19:24:31,339
+Navigator: navigate to Groups Page: success 2021-01-25 19:24:36,341
+GroupsShare: Share post done: +79913971829 2021-01-25 19:26:13,325
+BotRunTest: Start bot: +79913971829 2021-01-26 15:58:47,714
+QuickLogin: Start 2021-01-26 15:58:57,307
+QuickLogin: Login success: +79913971829 2021-01-26 15:59:01,880
+BotRunTest: Start bot: +79913971829 2021-01-26 16:04:13,436
+QuickLogin: Start 2021-01-26 16:04:22,552
+QuickLogin: Login success: +79913971829 2021-01-26 16:04:25,143
+GroupsShare: Start 2021-01-26 16:04:26,245
+BotRunTest: Start bot: +79913971829 2021-01-26 16:06:52,151
+QuickLogin: Start 2021-01-26 16:07:01,317
+QuickLogin: Login success: +79913971829 2021-01-26 16:07:04,006
+GroupsShare: Start 2021-01-26 16:07:05,090
+BotRunTest: Start bot: +79913971829 2021-01-26 16:21:18,859
+QuickLogin: Start 2021-01-26 16:21:28,027
+QuickLogin: Login success: +79913971829 2021-01-26 16:21:30,613
+GroupsShare: Start 2021-01-26 16:21:31,696
+BotRunTest: Start bot: +79913971829 2021-01-26 16:21:54,774
+QuickLogin: Start 2021-01-26 16:22:04,078
+QuickLogin: Login success: +79913971829 2021-01-26 16:22:11,850
+GroupsShare: Start 2021-01-26 16:22:12,952
+BotRunTest: Start bot: +79913971829 2021-01-26 16:24:36,055
+QuickLogin: Start 2021-01-26 16:24:45,228
+QuickLogin: Login success: +79913971829 2021-01-26 16:24:47,774
+GroupsShare: Start 2021-01-26 16:24:48,870
+BotRunTest: Start bot: +79913971829 2021-01-26 16:27:25,722
+QuickLogin: Start 2021-01-26 16:27:34,982
+QuickLogin: Login success: +79913971829 2021-01-26 16:27:39,287
+GroupsShare: Start 2021-01-26 16:27:40,359
+BotRunTest: BotCore Error: +79913971829 message 'list' object has no attribute 'get_attribute' 2021-01-26 16:27:47,956
+BotRunTest: Start bot: +79913971829 2021-01-26 16:39:31,191
+QuickLogin: Start 2021-01-26 16:39:40,367
+QuickLogin: Login success: +79913971829 2021-01-26 16:39:45,957
+GroupsShare: Start 2021-01-26 16:39:47,122
+BotRunTest: Start bot: +79913971829 2021-01-26 16:41:11,173
+BotRunTest: Start bot: +79913971829 2021-01-26 16:41:16,421
+QuickLogin: Start 2021-01-26 16:41:25,659
+QuickLogin: Login success: +79913971829 2021-01-26 16:41:30,638
+GroupsShare: Start 2021-01-26 16:41:32,078

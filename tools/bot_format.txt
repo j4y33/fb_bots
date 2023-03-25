@@ -1,0 +1,29 @@
++79877564542
+w4cVPJzID5bBDw
+ipvanish
+None
+ks@goshoponline.biz
+Qwer0008
+[{"domain": ".facebook.com", "expiry": 1590764599, "httpOnly": false, "name": "wd", "path": "/", "sameSite": "None", "secure": true, "value": "1440x821"}, {"domain": ".facebook.com", "httpOnly": false, "name": "m_pixel_ratio", "path": "/", "secure": true, "value": "1"}, {"domain": ".facebook.com", "httpOnly": false, "name": "x-referer", "path": "/", "sameSite": "None", "secure": true, "value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2Fc29mdD1oamsiLCJoIjoiL2NvbmZpcm1lbWFpbC5waHA%2Fc29mdD1oamsiLCJzIjoibW9iaWxlIn0%3D"}, {"domain": ".facebook.com", "expiry": 1621695686, "httpOnly": true, "name": "xs", "path": "/", "secure": true, "value": "37%3Ag2IYUFVAncJPNg%3A2%3A1590159692%3A-1%3A-1"}, {"domain": ".facebook.com", "expiry": 1621695686, "httpOnly": false, "name": "c_user", "path": "/", "secure": true, "value": "100051544994340"}, {"domain": ".facebook.com", "expiry": 1597935680, "httpOnly": true, "name": "fr", "path": "/", "secure": true, "value": "1ORO5j2niQq2Tzfoc.AWVpKfEibwbKYCrSIqEVx5oWeJU.Bex-ja.dp.AAA.0.0.Bex-lH.AWWRap7f"}, {"domain": ".facebook.com", "expiry": 1653231692, "httpOnly": true, "name": "sb", "path": "/", "secure": true, "value": "2ujHXqTRirVXclXyP75qgQJ8"}, {"domain": ".facebook.com", "expiry": 1653231578, "httpOnly": true, "name": "datr", "path": "/", "secure": true, "value": "x-jHXonab94tWYHlxQlqX-B_"}]
+False
+active
+Artur
+Bernstein
+Male
+19
+6
+1984
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2762.73 Safari/537.36
+None
+Köln
+Kopernikus-Schule
+Universität Augsburg
+None
+None
+None
+2020-05-22 18:03:28
+9999-12-31 23:59:59.999999
+0
+0
+0
+0

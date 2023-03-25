@@ -1,0 +1,318 @@
+{% extends "layout.html" %}
+{%block body%}
+
+<p>Bot: </p>
+<p id="current_action" style="color:gray;"></p>
+<style>
+select, p {
+    display: inline-block;
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+</style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
+<script>
+  $( document ).ready(function() {
+    var action = document.getElementById("current_action");
+    setInterval(() => {
+        fetch("{{ url_for('current_action') }}")
+        .then(response => {
+                response.text().then(t => {action.innerHTML = t})
+            });
+        }, 5000);
+    });
+</script>
+    <script>
+    $( document ).ready(function() {
+                $.getJSON('/get_main_actions', {
+                  },
+                  function(data) {
+                      console.log( data );
+                      data.result.forEach(iterFunction);
+                      function iterFunction(value) {
+                        $('#main_actions').append('<option value="'+value+'">'+value);
+                      }
+                  });
+                  return false;
+    });
+    </script>
+    <script>
+    $( document ).ready(function() {
+                $.getJSON('/get_base_actions', {
+                  },
+                  function(data) {
+                      console.log( data );
+                      data.result.forEach(iterFunction);
+                      function iterFunction(value) {
+                        $('#base_actions').append('<option value="'+value+'">'+value);
+                      }
+                  });
+                  return false;
+    });
+    </script>
+    <script>
+    $( document ).ready(function() {
+                $.getJSON('/get_low_actions', {
+                  },
+                  function(data) {
+                      console.log( data );
+                      data.result.forEach(iterFunction);
+                      function iterFunction(value) {
+                        $('#low_actions').append('<option value="'+value+'">'+value);
+                      }
+                  });
+                  return false;
+    });
+    </script>
+    <script>
+    $( document ).ready(function() {
+                $.getJSON('/get_profile_actions', {
+                  },
+                  function(data) {
+                      console.log( data );
+                      data.result.forEach(iterFunction);
+                      function iterFunction(value) {
+                        $('#profile_actions').append('<option value="'+value+'">'+value);
+                      }
+                  });
+                  return false;
+    });
+    </script>
+
+<div class="actions-group" style="width:100%">
+  <p style="color:red;">Main actions: </p>
+  <select id="main_actions">
+    <option>
+  <script type=text/javascript> $(function() {
+                                        $("#main_actions").change(function (event){
+                                                $.getJSON('/append_next', { state: $("#main_actions").val(), },
+                                                        function(data) {
+                                                         });
+                                                              return false;
+                                                });
+                                        });
+</script>
+</select>
+  <p style="color:green;"> Base actions: </p>
+    <select id="base_actions">
+      <option>
+  <script type=text/javascript> $(function() {
+                                        $("#base_actions").change(function (event){
+                                                $.getJSON('/append_next', { state: $("#base_actions").val(), },
+                                                        function(data) {
+                                                         });
+                                                              return false;
+                                                });
+                                        });
+</script>
+</select>
+  <p style="color:gray;"> Low actions: </p>
+    <select id="low_actions">
+      <option>
+  <script type=text/javascript> $(function() {
+                                        $("#low_actions").change(function (event){
+                                                $.getJSON('/append_next', { state: $("#low_actions").val(), },
+                                                        function(data) {
+                                                         });
+                                                              return false;
+                                                });
+                                        });
+</script>
+</select>
+  <p style="color:blue;"> Profile actions: </p>
+    <select id="profile_actions">
+      <option>
+  <script type=text/javascript> $(function() {
+                                        $("#profile_actions").change(function (event){
+                                                $.getJSON('/append_next', { state: $("#profile_actions").val(), },
+                                                        function(data) {
+                                                         });
+                                                              return false;
+                                                });
+                                        });
+</script>
+</select>
+  </div>
+
+<div class="stop-button" style="width:100%">
+  <button id="stop_screen_button" style="width:10%" value="Stop">Stop Screen</button>
+  <script type=text/javascript> $(function() {
+                                        $("#stop_screen_button").click(function (event){
+                                                $.getJSON('/stop_stream', { state: $("#stop_screen_button").val(), },
+                                                        function(data) {
+                                                         });
+                                                              return false;
+                                                });
+                                        });
+</script>
+</div>
+<div class="btn-group" style="width:100%">
+  <button id="status_button" style="width:10%" onclick="showImage()">Screen</button>
+  <button id="friends_button" style="width:10%">Friends requests</button>
+  <button id="groups_button" style="width:10%">Groups</button>
+  <button id="follow_button" style="width:10%">Follow</button>
+  <button id="last_actions_button" style="width:10%">Last actions</button>
+  <button id="errors_button" style="width:10%">Last errors</button>
+  <button id="info_button" style="width:10%" value="info">Bot info</button>
+
+    <script type=text/javascript>
+    $(function() {
+      $('#info_button').bind('click', function() {
+      document.getElementById("loadingImage").style.display = "none";
+      document.getElementById("tables").innerHTML = "";
+      if(!$('#login').length){
+        $.getJSON("{{ url_for('info') }}", {
+          info: $("#info_button").val()
+        }, function(data) {
+          $('#tables').append('<table><tbody>');
+          $('#tables').append('<tr><th id="login">Login</th><td>'+data.result.login+'</td></tr>');
+          $('#tables').append('<tr><th>Password</th><td>'+data.result.password+'</td></tr>');
+          $('#tables').append('<tr><th>Vpn provider</th><td>'+data.result.vpn_provider+'</td></tr>');
+          $('#tables').append('<tr><th>Vpn region</th><td>'+data.result.vpn_region+'</td></tr>');
+          $('#tables').append('<tr><th>First name</th><td>'+data.result.first_name+'</td></tr>');
+          $('#tables').append('<tr><th>Last name</th><td>'+data.result.last_name+'</td></tr>');
+          $('#tables').append('<tr><th>Gender</th><td>'+data.result.gender+'</td></tr>');
+          $('#tables').append('<tr><th>City</th><td>'+data.result.city+'</td></tr>');
+          $('#tables').append('<tr><th>School</th><td>'+data.result.school+'</td></tr>');
+          $('#tables').append('<tr><th>University</th><td>'+data.result.university+'</td></tr>');
+          $('#tables').append('<tr><th>Creation_date</th><td>'+data.result.creation_date+'</td></tr>');
+          $('#tables').append('<tr><th>Total errors</th><td>'+data.result.total_errors+'</td></tr>');
+          $('#tables').append('</tbody></table>');
+
+        });
+        }
+        return false;
+      });
+    });
+</script>
+
+      <script type=text/javascript>
+    $(function() {
+      $('#last_actions_button').bind('click', function() {
+      document.getElementById("loadingImage").style.display = "none";
+      document.getElementById("tables").innerHTML = "";
+      if(!$('#action').length){
+        $.getJSON("{{ url_for('last_actions') }}", {
+          info: $("#last_actions_button").val()
+        }, function(data) {
+                    $('#tables').append('<table><tbody>');
+                    $('#tables').append('<tr><td>Priority</td><td>ID</td><td>Date</td></tr>');
+                    data.result.forEach(iterFunction);
+                    function iterFunction(value) {
+                    console.log( value );
+                    $('#tables').append('<tr><td>'+value[2]+'</td><td>'+value[3]+'</td><td>'+value[5]+'</td></tr>');
+                    $('#tables').append('</tbody></table>');
+                    }
+        });
+        }
+        return false;
+      });
+    });
+</script>
+
+        <script type=text/javascript>
+    $(function() {
+      $('#errors_button').bind('click', function() {
+      document.getElementById("loadingImage").style.display = "none";
+      document.getElementById("tables").innerHTML = "";
+      if(!$('#error').length){
+        $.getJSON("{{ url_for('last_errors') }}", {
+          info: $("#errors_button").val()
+        }, function(data) {
+                    $('#tables').append('<table><tbody>');
+                    $('#tables').append('<tr><td>Image</td><td>Error</td><td>Date</td></tr>');
+                    data.result.forEach(iterFunction);
+                    function iterFunction(value) {
+                    console.log( value );
+                    $('#tables').append('<tr><td><img src="data:image/png;base64, '+value[3]+'"/></td><td>'+value[2]+'</td><td>'+value[4]+'</td></tr>');
+                    $('#tables').append('</tbody></table>');
+                    }
+        });
+        }
+        return false;
+      });
+    });
+</script>
+
+          <script type=text/javascript>
+    $(function() {
+      $('#friends_button').bind('click', function() {
+      document.getElementById("loadingImage").style.display = "none";
+      document.getElementById("tables").innerHTML = "";
+      if(!$('#friend').length){
+        $.getJSON("{{ url_for('friends') }}", {
+          info: $("#friends_button").val()
+        }, function(data) {
+                    $('#tables').append('<table><tbody>');
+                    $('#tables').append('<tr><td>Link</td><td>Status</td><td>Date</td></tr>');
+                    data.result.forEach(iterFunction);
+                    function iterFunction(value) {
+                    console.log( value );
+                    $('#tables').append('<tr><td>'+value[2]+'</td><td>'+value[3]+'</td><td>'+value[4]+'</td></tr>');
+                    $('#tables').append('</tbody></table>');
+                    }
+        });
+        }
+        return false;
+      });
+    });
+</script>
+
+  <script type=text/javascript>
+    $(function() {
+      $('#groups_button').bind('click', function() {
+      document.getElementById("loadingImage").style.display = "none";
+      document.getElementById("tables").innerHTML = "";
+      if(!$('#group').length){
+        $.getJSON("{{ url_for('groups') }}", {
+          info: $("#groups_button").val()
+        }, function(data) {
+                    $('#tables').append('<table><tbody>');
+                    $('#tables').append('<tr><td>Link</td><td>Date</td></tr>');
+                    data.result.forEach(iterFunction);
+                    function iterFunction(value) {
+                    console.log( value );
+                    $('#tables').append('<tr><td>'+value[2]+'</td><td>'+value[3]+'</td></tr>');
+                    $('#tables').append('</tbody></table>');
+                    }
+        });
+        }
+        return false;
+      });
+    });
+</script>
+
+    <script type=text/javascript>
+    $(function() {
+      $('#follow_button').bind('click', function() {
+      document.getElementById("loadingImage").style.display = "none";
+      document.getElementById("tables").innerHTML = "";
+      if(!$('#follow').length){
+        $.getJSON("{{ url_for('follow') }}", {
+          info: $("#follow_button").val()
+        }, function(data) {
+                    $('#tables').append('<table><tbody>');
+                    $('#tables').append('<tr><td>Link</td><td>Date</td></tr>');
+                    data.result.forEach(iterFunction);
+                    function iterFunction(value) {
+                    console.log( value );
+                    $('#tables').append('<tr><td>'+value[2]+'</td><td>'+value[3]+'</td></tr>');
+                    $('#tables').append('</tbody></table>');
+                    }
+        });
+        }
+        return false;
+      });
+    });
+</script>
+
+</div>
+
+<div id = "tables">
+  </div>
+<img id="loadingImage" src="{{ url_for('screen') }}" style="display:none">
+<script type="text/javascript" src="{{ url_for('static', filename='js/bot.js') }}">
+</script>
+{%endblock%}

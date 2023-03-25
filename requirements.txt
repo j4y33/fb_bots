@@ -1,0 +1,9 @@
+selenium
+numpy
+flask
+pyvirtualdisplay
+Pillow
+boto3
+fake-useragent
+requests
+psycopg2-binary
